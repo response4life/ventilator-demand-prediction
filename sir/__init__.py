@@ -14,7 +14,7 @@ def deriv(y, t, N, beta, gamma):
     dRdt = gamma * I
     return dSdt, dIdt, dRdt
   
-def calculate(population, I0=1, R0=0, contact_rate=0.2, recovery_rate=1./10, days=160, plot=False):
+def calculate(population=100000, I0=1, R0=0, contact_rate=0.2, recovery_rate=1./10, days=160):
   t = np.linspace(0, days, days)
   N = population
   beta = contact_rate
@@ -28,9 +28,13 @@ def calculate(population, I0=1, R0=0, contact_rate=0.2, recovery_rate=1./10, day
   S, I, R = ret.T
   ventilator_demand = [math.ceil(math.ceil(i) * .17) for i in I]
   response = {'t': t, 'S': S, 'I': I, 'R': R, 'V': ventilator_demand, 'N': N}
-  if not plot:
+  if not run_plot:
     days = [math.floor(day) for day in t.tolist()]
-    response = [{'day': d, 'ventilators_needed': v, 'susceptible': s, 'infected': i, 'recovered': r} for d, v, s, i, r in zip(days, ventilator_demand, S.tolist(), I.tolist(), R.tolist())]
+    susceptible = [math.floor(s) for s in S.tolist()]
+    infected = [math.floor(i) for i in I.tolist()]
+    recovered = [math.floor(r) for r in R.tolist()]
+    response = [{'day': d, 'ventilators_needed': v, 'susceptible': s, 'infected': i, 'recovered': r} for d, v, s, i, r in zip(days, ventilator_demand, susceptible, infected, recovered)]
+    
   return response
     
 
@@ -57,5 +61,5 @@ def plot(t, S, I, R, V, N):
     plt.show()
 
 if run_plot:
-  inputs = calculate(107125)
+  inputs = calculate(950715)
   plot(**inputs)
