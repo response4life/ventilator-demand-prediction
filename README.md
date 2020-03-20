@@ -15,7 +15,7 @@ install requirements
 
 set environment variable
 
-`export FLASK_APP=app.py`
+`export FLASK_APP=run.py`
 
 run the application
 

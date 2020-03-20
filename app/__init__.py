@@ -1,5 +1,5 @@
 from flask import Flask, request
-from sir import model as sir_model
+from .sir import model as sir_model
 import json
 
 app = Flask(__name__)
