@@ -21,6 +21,10 @@ run the application
 
 `flask run`
 
+You can then hit `localhost:5000` with requests and get back an array of predictions/day
+
+example request: `http://localhost:5000/?population=950715&initial_infected=1&initial_recovered=0&recovery_rate=0.1&contact_rate=0.2&days=365`
+
 ### Viewing a plot of the data
 
 if you'd like to plot the data using matplotlib just run `python3 sir`
