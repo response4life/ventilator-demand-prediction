@@ -26,7 +26,7 @@ def calculate(population=100000, I0=1, R0=0, contact_rate=0.2, recovery_rate=1./
   S, I, R = ret.T
   infected_hospitalized = [math.floor(math.floor(i) * .05) for i in I]
   ventilator_demand = [math.floor(i * .17) for i in infected_hospitalized]
-  response = {'t': t, 'S': S, 'I': I, 'R': R, 'V': ventilator_demand, 'N': N}
+  response = {'t': t, 'S': S, 'I': I, 'R': R, 'V': ventilator_demand, 'H': infected_hospitalized, 'N': N}
   if not run_plot:
     days = [math.floor(day) for day in t.tolist()]
     susceptible = [math.floor(s) for s in S.tolist()]
@@ -39,7 +39,7 @@ def calculate(population=100000, I0=1, R0=0, contact_rate=0.2, recovery_rate=1./
 
 
 
-def plot(t, S, I, R, V, N):
+def plot(t, S, I, R, V, H, N):
     # Plot the data on three separate curves for S(t), I(t) and R(t), and Ventilator Demand (V)
     fig = plt.figure(facecolor='w')
     ax = fig.add_subplot(111, axisbelow=True)
@@ -47,6 +47,7 @@ def plot(t, S, I, R, V, N):
     ax.plot(t, I, 'r', alpha=0.5, lw=2, label='Infected')
     ax.plot(t, R, 'g', alpha=0.5, lw=2, label='Recovered with immunity')
     ax.plot(t, V, 'c', alpha=0.5, lw=2, label='Ventilator Demand')
+    ax.plot(t, H, 'm', alpha=0.5, lw=2, label='Hospitalized')
     ax.set_xlabel('Time /days')
     ax.set_ylabel('Number')
     ax.set_ylim(0,N)

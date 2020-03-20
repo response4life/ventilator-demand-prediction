@@ -27,4 +27,4 @@ example request: `http://localhost:5000/?population=950715&initial_infected=1&in
 
 ### Viewing a plot of the data
 
-if you'd like to plot the data using matplotlib just run `python3 sir`
+if you'd like to plot the data using matplotlib just run `python3 app/sir`
