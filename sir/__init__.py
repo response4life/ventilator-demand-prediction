@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pdb
 import math
 
-run_plot=True
+run_plot=False
 
 # The SIR model differential equations.
 def deriv(y, t, N, beta, gamma):
@@ -14,7 +14,7 @@ def deriv(y, t, N, beta, gamma):
     dRdt = gamma * I
     return dSdt, dIdt, dRdt
   
-def calculate(population, I0=1, R0=0, contact_rate=0.2, recovery_rate=1./10, days=160):
+def calculate(population, I0=1, R0=0, contact_rate=0.2, recovery_rate=1./10, days=160, plot=False):
   t = np.linspace(0, days, days)
   N = population
   beta = contact_rate
@@ -26,8 +26,12 @@ def calculate(population, I0=1, R0=0, contact_rate=0.2, recovery_rate=1./10, day
   # Integrate the SIR equations over the time grid, t.
   ret = odeint(deriv, y0, t, args=(N, beta, gamma))
   S, I, R = ret.T
-  ventilator_demand = [math.ceil(i * .17) for i in I]
-  return {'t': t, 'S': S, 'I': I, 'R': R, 'V': ventilator_demand, 'N': N}
+  ventilator_demand = [math.ceil(math.ceil(i) * .17) for i in I]
+  response = {'t': t, 'S': S, 'I': I, 'R': R, 'V': ventilator_demand, 'N': N}
+  if not plot:
+    days = [math.floor(day) for day in t.tolist()]
+    response = [{'day': d, 'ventilators_needed': v, 'susceptible': s, 'infected': i, 'recovered': r} for d, v, s, i, r in zip(days, ventilator_demand, S.tolist(), I.tolist(), R.tolist())]
+  return response
     
 
 
