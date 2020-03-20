@@ -24,8 +24,8 @@ def calculate(population=100000, I0=1, R0=0, contact_rate=0.2, recovery_rate=1./
   # Integrate the SIR equations over the time grid, t.
   ret = odeint(deriv, y0, t, args=(N, beta, gamma))
   S, I, R = ret.T
-  infected_hospitalized = [math.ceil(math.floor(i) * .05) for i in I]
-  ventilator_demand = [math.ceil(math.ceil(i) * .17) for i in infected_hospitalized]
+  infected_hospitalized = [math.floor(math.floor(i) * .05) for i in I]
+  ventilator_demand = [math.floor(i * .17) for i in infected_hospitalized]
   response = {'t': t, 'S': S, 'I': I, 'R': R, 'V': ventilator_demand, 'N': N}
   if not run_plot:
     days = [math.floor(day) for day in t.tolist()]
