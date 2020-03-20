@@ -1,5 +1,5 @@
 from flask import Flask, request
-import sir
+from sir import model as sir_model
 import json
 
 app = Flask(__name__)
@@ -26,5 +26,5 @@ def calculate_sir():
     null_filtered_query = {k: v for k, v in query.items() if v is not None}
 
     
-    response = sir.calculate(**null_filtered_query)
+    response = sir_model.calculate(**null_filtered_query)
     return json.dumps(response)
