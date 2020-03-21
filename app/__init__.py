@@ -1,10 +1,13 @@
 from flask import Flask, request
+from flask_cors import CORS
 from .sir import model as sir_model
 import json
 
 app = Flask(__name__)
+CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 
-@app.route('/')
+@app.route('/sir')
 def calculate_sir():
     population = request.args.get('population')
     initial_infected = request.args.get('initial_infected')
