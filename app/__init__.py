@@ -70,6 +70,8 @@ def upload_file():
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
             data = berkeley_model.read_csv()
             berkeley_model.write_data(data)
+            return redirect(url_for('uploaded_file'))
+
             
     return '''
     <!doctype html>
