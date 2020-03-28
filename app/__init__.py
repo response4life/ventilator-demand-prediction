@@ -1,7 +1,7 @@
 from flask import Flask, request
 from flask_cors import CORS
 from .sir import model as sir_model
-import json
+from .berkeley import mordel as berkeley_model
 
 app = Flask(__name__)
 CORS(app)

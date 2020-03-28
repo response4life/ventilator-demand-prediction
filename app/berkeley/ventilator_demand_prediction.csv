@@ -1,0 +1,1088 @@
+Vent Needed 1-day,Vent Demand 1-day,Vent Supply 1-day,Vent Needed 3-day,Vent Demand 3-day,Vent Supply 3-day,Vent Needed 5-day,Vent Demand 5-day,Vent Supply 5-day,Facility Name,County Name,TIN,countyFIPS
+243.00,533.51,290,243,533.51,290,243,533.51,290,New York Presbyterian/Weill Cornell Medical Center,"New York County, NY",133957095,36061
+191.00,419.45,228,191,419.45,228,191,419.45,228,NYU Langone Tisch Hospital,"New York County, NY",133971298,36061
+62.00,137.98,75,62,137.98,75,62,137.98,75,The Mount Sinai Hospital,"New York County, NY",131624096,36061
+47.00,104.86,57,47,104.86,57,47,104.86,57,Mount Sinai Morningside,"New York County, NY",132997301,36061
+37.00,82.79,45,37,82.79,45,37,82.79,45,NYC Health + Hospitals Bellevue,"New York County, NY",132655001,36061
+23.00,51.51,28,23,51.51,28,23,51.51,28,Mount Sinai Beth Israel Medical Center,"New York County, NY",135564934,36061
+20.00,45.99,25,20,45.99,25,20,45.99,25,Memorial Sloan-Kettering Cancer Center,"New York County, NY",131624082,36061
+20.00,44.15,24,20,44.15,24,20,44.15,24,Lenox Hill Hospital,"New York County, NY",131624070,36061
+20.00,44.15,24,20,44.15,24,20,44.15,24,NYC Health + Hospitals Metropolitan,"New York County, NY",132655001,36061
+16.00,36.79,20,16,36.79,20,16,36.79,20,"NewYork-Presbyterian, Lower Manhattan Hospital","New York County, NY",133049852,36061
+14.00,31.27,17,14,31.27,17,14,31.27,17,NYC Health + Hospitals Harlem,"New York County, NY",132655001,36061
+10.00,101.11,91,10,101.11,91,10,101.11,91,Seattle Children's Hospital & Regional Medical Center,"King County, WA",910564748,53033
+9.00,98.89,89,9,98.89,89,9,98.89,89,Harborview Medical Center,"King County, WA",911631806,53033
+9.00,90,81,9,90,81,9,90,81,University of Washington Medical Center-Montlake,"King County, WA",916001537,53033
+6.00,62.22,56,6,62.22,56,6,62.22,56,Swedish Cherry Hill Campus,"King County, WA",910373400,53033
+6.00,60,54,6,60,54,6,60,54,Swedish First Hill Campus,"King County, WA",910433740,53033
+3.00,35.56,32,3,35.56,32,3,35.56,32,University of Washington Medical Center-Northwest,"King County, WA",910637400,53033
+3.00,31.11,28,3,31.11,28,3,31.11,28,Virginia Mason Hospital and Seattle Medical Center,"King County, WA",910565539,53033
+2.00,20,18,2,20,18,2,20,18,Swedish Issaquah Campus,"King County, WA",910433740,53033
+1.00,15.56,14,1,15.56,14,1,15.56,14,CHI Franciscan Health - St. Francis Hospital,"King County, WA",911267921,53033
+0.00,14.33,80,0,14.33,80,0,14.33,80,Henry Ford Wyandotte Hospital,"Wayne County, MI",382791823,26163
+0.00,9.32,52,0,9.32,52,0,9.32,52, Ascension Saint John Hospital,"Wayne County, MI",381359063,26163
+0.00,8.6,48,0,8.6,48,0,8.6,48,Children's Hospital of Michigan,"Wayne County, MI",272845064,26163
+0.00,7.88,44,0,7.88,44,0,7.88,44,Henry Ford Hospital,"Wayne County, MI",381357020,26163
+0.00,6.99,39,0,6.99,39,0,6.99,39,DMC Sinai-Grace Hospital,"Wayne County, MI",272844632,26163
+0.00,6.09,34,0,6.09,34,0,6.09,34,DMC Harper University Hospital,"Wayne County, MI",272844767,26163
+0.00,5.02,28,0,5.02,28,0,5.02,28,"Beaumont Hospital, Trenton","Wayne County, MI",381405141,26163
+0.00,5.02,28,0,5.02,28,0,5.02,28,DMC Detroit Receiving Hospital,"Wayne County, MI",272844942,26163
+0.00,3.23,18,0,3.23,18,0,3.23,18,"Beaumont Hospital, Wayne","Wayne County, MI",381405141,26163
+0.00,3.05,17,0,3.05,17,0,3.05,17,"Beaumont Hospital,  Dearborn","Wayne County, MI",381405141,26163
+0.00,3.05,17,0,3.05,17,0,3.05,17,"Beaumont Hospital, Grosse Pointe","Wayne County, MI",381459362,26163
+0.00,2.87,16,0,2.87,16,0,2.87,16,Saint Mary Mercy Livonia Hospital,"Wayne County, MI",383521763,26163
+0.00,2.87,16,0,2.87,16,0,2.87,16,"Beaumont Hospital, Taylor","Wayne County, MI",381405141,26163
+0.00,2.33,13,0,2.33,13,0,2.33,13,Garden City Hospital,"Wayne County, MI",464719451,26163
+0.00,1.08,6,0,1.08,6,0,1.08,6,Karmanos Cancer Institute,"Wayne County, MI",201649466,26163
+0.00,28.47,80,0,28.47,80,0,28.47,80,Stony Brook University Hospital,"Suffolk County, NY",113243405,36103
+0.00,17.08,48,0,17.08,48,0,17.08,48,Good Samaritan Hospital Medical Center,"Suffolk County, NY",111888924,36103
+0.00,12.81,36,0,12.81,36,0,12.81,36,Southside Hospital,"Suffolk County, NY",111667761,36103
+0.00,9.25,26,0,9.25,26,0,9.25,26,Huntington Hospital,"Suffolk County, NY",111630914,36103
+0.00,5.69,16,0,5.69,16,0,5.69,16,Saint Charles Hospital,"Suffolk County, NY",111871039,36103
+0.00,4.27,12,0,4.27,12,0,4.27,12,John T. Mather Memorial Hospital,"Suffolk County, NY",111639818,36103
+0.00,3.56,10,0,3.56,10,0,3.56,10,Peconic Bay Medical Center,"Suffolk County, NY",111661359,36103
+0.00,3.56,10,0,3.56,10,0,3.56,10, Long Island Community Hospital,"Suffolk County, NY",111704595,36103
+0.00,2.85,8,0,2.85,8,0,2.85,8,Stony Brook Southampton Hospital,"Suffolk County, NY",111667765,36103
+0.00,16.59,90,0,16.59,90,0,16.59,90,Long Island Jewish Medical Center,"Nassau County, NY",112241326,36059
+0.00,17.38,64,0,17.38,64,0,17.38,64,Santa Clara Medical Center,"Santa Clara County, CA",941105628,6085
+0.00,16.02,59,0,16.02,59,0,16.02,59,Stanford Hospital,"Santa Clara County, CA",770465765,6085
+0.00,8.67,47,0,8.67,47,0,8.67,47,North Shore University Hospital,"Nassau County, NY",111562701,36059
+0.00,7.19,39,0,7.19,39,0,7.19,39,Nassau University Medical Center,"Nassau County, NY",113465690,36059
+0.00,6.82,37,0,6.82,37,0,6.82,37,Saint Francis Hospital The Heart Center,"Nassau County, NY",112050523,36059
+0.00,6.64,36,0,6.64,36,0,6.64,36,NYU Winthrop Hospital,"Nassau County, NY",111633486,36059
+0.00,9.5,35,0,9.5,35,0,9.5,35,Santa Clara Valley Medical Center,"Santa Clara County, CA",946000533,6085
+0.00,6.52,24,0,6.52,24,0,6.52,24,San Jose Medical Center Main Campus,"Santa Clara County, CA",941105628,6085
+0.00,5.97,22,0,5.97,22,0,5.97,22,O'Connor Hospital,"Santa Clara County, CA",912154436,6085
+0.00,3.5,19,0,3.5,19,0,3.5,19,Plainview Hospital,"Nassau County, NY",113241243,36059
+0.00,3.32,18,0,3.32,18,0,3.32,18,Mercy Medical Center,"Nassau County, NY",111635088,36059
+0.00,1.84,10,0,1.84,10,0,1.84,10,Glen Cove Hospital,"Nassau County, NY",111633487,36059
+0.00,1.84,10,0,1.84,10,0,1.84,10,Mount Sinai South Nassau,"Nassau County, NY",111352310,36059
+0.00,1.48,8,0,1.48,8,0,1.48,8,St. Joseph Hospital,"Nassau County, NY",113438973,36059
+0.00,1.48,8,0,1.48,8,0,1.48,8,Long Island Jewish Valley Stream,"Nassau County, NY",112296824,36059
+5.00,54.44,49,5,54.44,49,5,54.44,49,Providence Regional Medical Center Everett Colby Campus,"Snohomish County, WA",352346161,53061
+0.00,16.67,35,0,16.67,35,0,16.67,35,Hackensack University Medical Center,"Bergen County, NJ",221487576,34003
+0.00,12.38,26,0,12.38,26,0,12.38,26,Englewood Hospital and Medical Center,"Bergen County, NJ",221487173,34003
+0.00,4.29,9,0,4.29,9,0,4.29,9,Bergen New Bridge Medical Center,"Bergen County, NJ",223240487,34003
+0.00,7.37,182,0,7.37,182,0,7.37,182,Advocate Christ Medical Center,"Cook County, IL",362169147,17031
+0.00,5.14,168,0,5.14,168,0,5.14,168,Los Angeles County and University of Southern California Medical Center,"Los Angeles County, CA",956000927,6037
+0.00,3.94,129,0,3.94,129,0,3.94,129,Los Angeles Medical Center,"Los Angeles County, CA",941105628,6037
+0.00,3.67,120,0,3.67,120,0,3.67,120,Ronald Reagan UCLA Medical Center,"Los Angeles County, CA",956006143,6037
+0.00,4.65,115,0,4.65,115,0,4.65,115,Evanston Hospital,"Cook County, IL",362167060,17031
+0.00,4.29,106,0,4.29,106,0,4.29,106,Northwestern Memorial Hospital,"Cook County, IL",370960170,17031
+0.00,2.66,87,0,2.66,87,0,2.66,87, Downey Medical Center,"Los Angeles County, CA",941105628,6037
+0.00,3.2,79,0,3.2,79,0,3.2,79,The University of Chicago Medical Center,"Cook County, IL",363488183,17031
+0.00,3.08,76,0,3.08,76,0,3.08,76,Loyola University Medical Center,"Cook County, IL",364015560,17031
+0.00,3,74,0,3,74,0,3,74,Advocate Illinois Masonic Medical Center,"Cook County, IL",363196629,17031
+0.00,2.23,73,0,2.23,73,0,2.23,73,Harbor-UCLA Medical Center,"Los Angeles County, CA",956000927,6037
+0.00,1.83,60,0,1.83,60,0,1.83,60,Long Beach Medical Center,"Los Angeles County, CA",953527031,6037
+0.00,2.23,55,0,2.23,55,0,2.23,55,Rush University Medical Center,"Cook County, IL",362174823,17031
+0.00,1.47,48,0,1.47,48,0,1.47,48,Panorama City Medical Center,"Los Angeles County, CA",941105628,6037
+0.00,1.47,48,0,1.47,48,0,1.47,48,Cedars-Sinai Medical Center,"Los Angeles County, CA",951644600,6037
+0.00,1.47,48,0,1.47,48,0,1.47,48,Children's Hospital Los Angeles,"Los Angeles County, CA",951690977,6037
+0.00,1.41,46,0,1.41,46,0,1.41,46,Northridge Hospital Medical Center,"Los Angeles County, CA",941196203,6037
+0.00,1.41,46,0,1.41,46,0,1.41,46,Keck Hospital of USC,"Los Angeles County, CA",951642394,6037
+0.00,1.31,43,0,1.31,43,0,1.31,43,West Los Angeles Medical Center,"Los Angeles County, CA",941105628,6037
+0.00,1.7,42,0,1.7,42,0,1.7,42,University of Illinois Medical Center,"Cook County, IL",376000511,17031
+0.00,1.66,41,0,1.66,41,0,1.66,41,AMITA Health Resurrection Medical Center Chicago,"Cook County, IL",362235165,17031
+0.00,1.22,40,0,1.22,40,0,1.22,40,Pomona Valley Hospital Medical Center,"Los Angeles County, CA",951115230,6037
+0.00,1.62,40,0,1.62,40,0,1.62,40,Ann & Robert H. Lurie Children's Hospital of Chicago,"Cook County, IL",362170833,17031
+0.00,1.19,39,0,1.19,39,0,1.19,39,Good Samaritan Hospital,"Los Angeles County, CA",951656366,6037
+0.00,1.04,34,0,1.04,34,0,1.04,34,Adventist Health White Memorial,"Los Angeles County, CA",952282647,6037
+0.00,1.34,33,0,1.34,33,0,1.34,33,Advocate Lutheran General Hospital,"Cook County, IL",362169147,17031
+0.00,0.98,32,0,0.98,32,0,0.98,32,Lakewood Regional Medical Center,"Los Angeles County, CA",752919841,6037
+0.00,1.3,32,0,1.3,32,0,1.3,32,"John H. Stroger, Jr. Hospital of Cook County","Cook County, IL",366006541,17031
+0.00,1.25,31,0,1.25,31,0,1.25,31,Franciscan Health Olympia Fields Campus,"Cook County, IL",362167869,17031
+0.00,0.92,30,0,0.92,30,0,0.92,30,St. Mary Medical Center Long Beach,"Los Angeles County, CA",941196203,6037
+0.00,0.92,30,0,0.92,30,0,0.92,30,Huntington Hospital,"Los Angeles County, CA",951644036,6037
+0.00,0.92,30,0,0.92,30,0,0.92,30,Miller Children's and Women's Hospital Long Beach,"Los Angeles County, CA",953527031,6037
+0.00,0.86,28,0,0.86,28,0,0.86,28,California Hospital Medical Center,"Los Angeles County, CA",941196203,6037
+0.00,1.09,27,0,1.09,27,0,1.09,27,AMITA Health Adventist Medical Center La Grange,"Cook County, IL",371762682,17031
+0.00,1.05,26,0,1.05,26,0,1.05,26,OSF Little Company of Mary Medical Center,"Cook County, IL",362246719,17031
+0.00,1.05,26,0,1.05,26,0,1.05,26,AMITA Health Saints Mary and Elizabeth Medical Center Saint Mary Campus,"Cook County, IL",362235165,17031
+0.00,0.73,24,0,0.73,24,0,0.73,24,PIH Health Hospital - Whittier,"Los Angeles County, CA",951934652,6037
+0.00,0.67,22,0,0.67,22,0,0.67,22,"UCLA Medical Center, Santa Monica","Los Angeles County, CA",954541687,6037
+0.00,0.67,22,0,0.67,22,0,0.67,22, Woodland Hills Medical Center,"Los Angeles County, CA",941105628,6037
+0.00,0.85,21,0,0.85,21,0,0.85,21,West Suburban Medical Center,"Cook County, IL",611899386,17031
+0.00,0.61,20,0,0.61,20,0,0.61,20,Emanate Health Inter-Community Hospital,"Los Angeles County, CA",956006469,6037
+0.00,0.61,20,0,0.61,20,0,0.61,20,South Bay Medical Center,"Los Angeles County, CA",941105628,6037
+0.00,0.77,19,0,0.77,19,0,0.77,19,AMITA Health Saint Joseph Hospital Chicago,"Cook County, IL",362235165,17031
+0.00,0.55,18,0,0.55,18,0,0.55,18,Olive View-UCLA Medical Center,"Los Angeles County, CA",956000927,6037
+0.00,0.55,18,0,0.55,18,0,0.55,18,City of Hope Comprehensive Cancer Center,"Los Angeles County, CA",951683875,6037
+0.00,0.55,18,0,0.55,18,0,0.55,18,PIH Health Hospital - Downey,"Los Angeles County, CA",951903935,6037
+0.00,0.73,18,0,0.73,18,0,0.73,18,Swedish Hospital,"Cook County, IL",362179813,17031
+0.00,0.69,17,0,0.69,17,0,0.69,17,Mount Sinai Hospital,"Cook County, IL",361509000,17031
+0.00,0.69,17,0,0.69,17,0,0.69,17,MacNeal Hospital,"Cook County, IL",363332852,17031
+0.00,0.65,16,0,0.65,16,0,0.65,16,Loyola Gottlieb Memorial Hospital,"Cook County, IL",362379649,17031
+0.00,0.65,16,0,0.65,16,0,0.65,16,Skokie Hospital,"Cook County, IL",362167060,17031
+0.00,0.65,16,0,0.65,16,0,0.65,16,AMITA Health Saint Francis Hospital Evanston,"Cook County, IL",362235165,17031
+0.00,0.65,16,0,0.65,16,0,0.65,16,Weiss Memorial Hospital,"Cook County, IL",352637418,17031
+0.00,0.61,15,0,0.61,15,0,0.61,15,Saint Anthony Hospital,"Cook County, IL",510217097,17031
+0.00,0.57,14,0,0.57,14,0,0.57,14,Rush Oak Park Hospital,"Cook County, IL",362183812,17031
+0.00,0.57,14,0,0.57,14,0,0.57,14,Mercy Hospital & Medical Center,"Cook County, IL",362170152,17031
+0.00,0.37,12,0,0.37,12,0,0.37,12,Rancho Los Amigos National Rehabilitation Center,"Los Angeles County, CA",956000927,6037
+0.00,0.37,12,0,0.37,12,0,0.37,12,LA Downtown Medical Center Downtown Campus,"Los Angeles County, CA",263366535,6037
+0.00,0.49,12,0,0.49,12,0,0.49,12,Loretto Hospital,"Cook County, IL",362200248,17031
+0.00,0.49,12,0,0.49,12,0,0.49,12,Norwegian American Hospital,"Cook County, IL",361564290,17031
+0.00,0.4,10,0,0.4,10,0,0.4,10,Saint Bernard Hospital and Health Care Center,"Cook County, IL",362264414,17031
+0.00,0.24,8,0,0.24,8,0,0.24,8,College Medical Center,"Los Angeles County, CA",462760935,6037
+0.00,0.32,8,0,0.32,8,0,0.32,8,Jackson Park Hospital,"Cook County, IL",362448028,17031
+0.00,0.32,8,0,0.32,8,0,0.32,8,AMITA Health Holy Family Medical Center Des Plaines,"Cook County, IL",362235165,17031
+0.00,0.21,7,0,0.21,7,0,0.21,7,USC Norris Comprehensive Cancer Center,"Los Angeles County, CA",951642394,6037
+0.00,14.22,41,0,14.22,41,0,14.22,41,Danbury Hospital,"Fairfield County, CT",60646597,9001
+0.00,13.87,40,0,13.87,40,0,13.87,40,Norwalk Hospital,"Fairfield County, CT",66068853,9001
+0.00,12.49,36,0,12.49,36,0,12.49,36,Stamford Hospital,"Fairfield County, CT",60646917,9001
+0.00,5.55,16,0,5.55,16,0,5.55,16,Bridgeport Hospital,"Fairfield County, CT",60646554,9001
+0.00,4.86,14,0,4.86,14,0,4.86,14,Saint Vincent's Medical Center,"Fairfield County, CT",60646886,9001
+0.00,3.47,10,0,3.47,10,0,3.47,10,Greenwich Hospital,"Fairfield County, CT",60646659,9001
+0.00,16.87,138,0,16.87,138,0,16.87,138,"Beaumont Hospital, Royal Oak","Oakland County, MI",381459362,26125
+0.00,6.85,56,0,6.85,56,0,6.85,56,"Beaumont Hospital, Troy","Oakland County, MI",381459362,26125
+0.00,4.16,34,0,4.16,34,0,4.16,34,"Ascension Providence Hospital, Southfield Campus","Oakland County, MI",381358212,26125
+0.00,3.91,32,0,3.91,32,0,3.91,32,Saint Joseph Mercy Oakland,"Oakland County, MI",383176536,26125
+0.00,2.93,24,0,2.93,24,0,2.93,24,"Beaumont Hospital,  Farmington Hills","Oakland County, MI",381426919,26125
+0.00,2.2,18,0,2.2,18,0,2.2,18,Ascension Providence Rochester Hospital,"Oakland County, MI",381359247,26125
+0.00,1.47,12,0,1.47,12,0,1.47,12,DMC Huron Valley-Sinai Hospital,"Oakland County, MI",272844563,26125
+0.00,1.22,10,0,1.22,10,0,1.22,10,Pontiac General Hospital,"Oakland County, MI",262512084,26125
+0.00,1.1,9,0,1.1,9,0,1.1,9,McLaren Oakland,"Oakland County, MI",381428164,26125
+0.00,7.86,69,0,7.86,69,0,7.86,69,Riverside Community Hospital,"Riverside County, CA",330751869,6065
+0.00,5.13,45,0,5.13,45,0,5.13,45,Riverside University Medical Center,"Riverside County, CA",956000930,6065
+0.00,4.67,41,0,4.67,41,0,4.67,41,Riverside Medical Center,"Riverside County, CA",941105628,6065
+0.00,3.87,34,0,3.87,34,0,3.87,34,Eisenhower Medical Center,"Riverside County, CA",956130458,6065
+0.00,3.53,31,0,3.53,31,0,3.53,31,Desert Regional Medical Center,"Riverside County, CA",752694137,6065
+0.00,2.05,18,0,2.05,18,0,2.05,18,Hemet Global Medical Center,"Riverside County, CA",270636387,6065
+0.00,10.88,83,0,10.88,83,0,10.88,83,The University Hospital,"Essex County, NJ",221775306,34013
+0.00,13.77,48,0,13.77,48,0,13.77,48,Henry Ford Macomb Hospital - Clinton Township,"Macomb County, MI",382947657,26099
+0.00,6.03,46,0,6.03,46,0,6.03,46,Saint Barnabas Medical Center,"Essex County, NJ",221494440,34013
+0.00,11.76,41,0,11.76,41,0,11.76,41,Ascension Macomb - Oakland Hospital Warren Campus,"Macomb County, MI",383322109,26099
+0.00,4.59,35,0,4.59,35,0,4.59,35,Newark Beth Israel Medical Center,"Essex County, NJ",223452311,34013
+0.00,9.47,33,0,9.47,33,0,9.47,33,McLaren Macomb,"Macomb County, MI",381218516,26099
+0.00,3.93,30,0,3.93,30,0,3.93,30,Saint Michael's Medical Center,"Essex County, NJ",463487442,34013
+0.00,2.1,16,0,2.1,16,0,2.1,16,Hackensack Meridian Health Mountainside Medical Center,"Essex County, NJ",208489105,34013
+0.00,6.69,137,0,6.69,137,0,6.69,137,Children's Medical Center Dallas,"Dallas County, TX",750800628,48113
+0.00,6.25,128,0,6.25,128,0,6.25,128,Baylor University Medical Center,"Dallas County, TX",751837454,48113
+0.00,6.84,122,0,6.84,122,0,6.84,122,Summerlin Hospital Medical Center,"Clark County, NV",232939047,32003
+0.00,4.98,102,0,4.98,102,0,4.98,102,William P. Clements Jr. University Hospital,"Dallas County, TX",753175630,48113
+0.00,4.82,86,0,4.82,86,0,4.82,86,Sunrise Hospital & Medical Center,"Clark County, NV",621762537,32003
+0.00,4.6,82,0,4.6,82,0,4.6,82,Dignity Health - St. Rose Dominican Siena Campus,"Clark County, NV",941196203,32003
+0.00,4.11,72,0,4.11,72,0,4.11,72,Sidney and Lois Eskenazi Hospital,"Marion County, IN",356005697,18097
+0.00,3.76,66,0,3.76,66,0,3.76,66,IU Health Methodist University,"Marion County, IN",351955872,18097
+0.00,3.42,60,0,3.42,60,0,3.42,60,Franciscan  Health  Indianapolis,"Marion County, IN",350913537,18097
+0.00,3.19,56,0,3.19,56,0,3.19,56,Ascension Saint Vincent Indianapolis Hospital,"Marion County, IN",350869066,18097
+0.00,30,50,0,30,50,0,30,50,Phoebe Putney Memorial Hospital,"Dougherty County, GA",581928247,13095
+0.00,2.35,48,0,2.35,48,0,2.35,48,Texas Health Dallas,"Dallas County, TX",751047527,48113
+0.00,2.64,47,0,2.64,47,0,2.64,47,MountainView Hospital,"Clark County, NV",621600397,32003
+0.00,1.76,36,0,1.76,36,0,1.76,36,Medical City Dallas,"Dallas County, TX",621682198,48113
+0.00,1.71,35,0,1.71,35,0,1.71,35,Parkland Hospital,"Dallas County, TX",756004221,48113
+0.00,1.66,34,0,1.66,34,0,1.66,34,Methodist Dallas Medical Center,"Dallas County, TX",750800661,48113
+0.00,1.56,32,0,1.56,32,0,1.56,32,Methodist Charlton Medical Center,"Dallas County, TX",750800661,48113
+0.00,1.74,31,0,1.74,31,0,1.74,31,Centennial Hills Hospital Medical Center,"Clark County, NV",204993360,32003
+0.00,1.6,28,0,1.6,28,0,1.6,28,Community Hospital East,"Marion County, IN",350983617,18097
+0.00,1.37,24,0,1.37,24,0,1.37,24,Community Hospital North,"Marion County, IN",743230935,18097
+0.00,1.23,22,0,1.23,22,0,1.23,22,Southern Hills Hospital & Medical Center,"Clark County, NV",743048428,32003
+0.00,1.12,20,0,1.12,20,0,1.12,20,University Medical Center,"Clark County, NV",886000436,32003
+0.00,1.12,20,0,1.12,20,0,1.12,20,Valley Hospital Medical Center,"Clark County, NV",232973511,32003
+0.00,0.98,20,0,0.98,20,0,0.98,20,Zale Lipshy Pavilion-William P. Clements Jr. University Hospital,"Dallas County, TX",753175621,48113
+0.00,0.68,12,0,0.68,12,0,0.68,12,Community Hospital South,"Marion County, IN",351088640,18097
+0.00,23.95,91,0,23.95,91,0,23.95,91,Penrose-St. Francis Health Services,"El Paso County, CO",840405257,8041
+0.00,5.05,80,0,5.05,80,0,5.05,80,Sutter Medical Center,"Sacramento County, CA",941156621,6067
+0.00,3.54,56,0,3.54,56,0,3.54,56,Mercy San Juan Medical Center,"Sacramento County, CA",941196203,6067
+0.00,11.55,55,0,11.55,55,0,11.55,55,WellStar Kennestone Hospital,"Cobb County, GA",582032904,13067
+0.00,12.11,46,0,12.11,46,0,12.11,46,UCHealth Memorial Hospital Central,"El Paso County, CO",460796114,8041
+0.00,2.78,44,0,2.78,44,0,2.78,44,UC Davis Medical Center,"Sacramento County, CA",946036494,6067
+0.00,2.15,34,0,2.15,34,0,2.15,34,Sacramento Medical Center,"Sacramento County, CA",941105628,6067
+0.00,1.89,30,0,1.89,30,0,1.89,30,South Sacramento Medical Center,"Sacramento County, CA",941105628,6067
+0.00,5.34,28,0,5.34,28,0,5.34,28,Seton Medical Center,"San Mateo County, CA",912154441,6081
+0.00,5.46,26,0,5.46,26,0,5.46,26,WellStar Cobb Hospital,"Cobb County, GA",580968382,13067
+0.00,11.41,21,0,11.41,21,0,11.41,21,The University of Vermont Medical Center,"Chittenden County, VT",30219309,50007
+0.00,3.82,20,0,3.82,20,0,3.82,20,Redwood City Medical Center,"San Mateo County, CA",941105628,6081
+0.00,1.26,20,0,1.26,20,0,1.26,20,Methodist Hospital of Sacramento,"Sacramento County, CA",941196203,6067
+0.00,2.86,15,0,2.86,15,0,2.86,15,Kaiser Permanente South San Francisco Medical Center,"San Mateo County, CA",941105628,6081
+0.00,1.34,7,0,1.34,7,0,1.34,7,San Mateo Medical Center,"San Mateo County, CA",946000532,6081
+0.00,5.2,140,0,5.2,140,0,5.2,140,Grady Memorial Hospital,"Fulton County, GA",262037695,13121
+0.00,3.79,102,0,3.79,102,0,3.79,102,Children's Healthcare of Atlanta at Scottish Rite,"Fulton County, GA",580572465,13121
+0.00,17.78,80,0,17.78,80,0,17.78,80,PeaceHealth Southwest Medical Center,"Clark County, WA",916068143,53011
+0.00,2.79,75,0,2.79,75,0,2.79,75,WellStar Atlanta Medical Center,"Fulton County, GA",810837031,13121
+0.00,2.08,56,0,2.08,56,0,2.08,56,Piedmont Atlanta Hospital,"Fulton County, GA",580566213,13121
+0.00,1.75,47,0,1.75,47,0,1.75,47,Emory University Hospital Midtown,"Fulton County, GA",580566200,13121
+0.00,9.67,44,0,9.67,44,0,9.67,44,Morristown Medical Center,"Morris County, NJ",521958352,34027
+0.00,1.52,41,0,1.52,41,0,1.52,41,Emory Saint Joseph's Hospital,"Fulton County, GA",580566257,13121
+0.00,4.87,37,0,4.87,37,0,4.87,37,Jersey Shore University Medical Center,"Monmouth County, NJ",221487576,34025
+0.00,1.19,32,0,1.19,32,0,1.19,32,WellStar Atlanta Medical Center - South Campus,"Fulton County, GA",752919505,13121
+0.00,3.29,25,0,3.29,25,0,3.29,25,CentraState Medical Center,"Monmouth County, NJ",221750190,34025
+0.00,3.03,23,0,3.03,23,0,3.03,23,Monmouth Medical Center,"Monmouth County, NJ",223452412,34025
+0.00,12.31,16,0,12.31,16,0,12.31,16,North Colorado Medical Center,"Weld County, CO",841287638,8123
+0.00,4.79,207,0,4.79,207,0,4.79,207,Methodist Hospital,"Bexar County, TX",742730328,48029
+0.00,31.47,193,0,31.47,193,0,31.47,193,University of Michigan Hospitals and Health Centers,"Washtenaw County, MI",386006309,26161
+0.00,6.54,166,0,6.54,166,0,6.54,166,Children's Wisconsin,"Milwaukee County, WI",390812532,55079
+0.00,3.5,151,0,3.5,151,0,3.5,151,Baptist Medical Center,"Bexar County, TX",760714523,48029
+0.00,11.15,142,0,11.15,142,0,11.15,142,Strong Memorial Hospital,"Monroe County, NY",160743209,36055
+0.00,4.37,120,0,4.37,120,0,4.37,120,Baptist Medical Center Jacksonville,"Duval County, FL",590747311,12031
+0.00,7.47,113,0,7.47,113,0,7.47,113,Presbyterian/Saint Luke's Medical Center,"Denver County, CO",841321373,8031
+0.00,4.21,107,0,4.21,107,0,4.21,107,Froedtert Hospital,"Milwaukee County, WI",396105970,55079
+0.00,2.35,92,0,2.35,92,0,2.35,92,Memorial Regional Hospital,"Broward County, FL",596014973,12011
+0.00,1.27,85,0,1.27,85,0,1.27,85,Banner Boswell Medical Center,"Maricopa County, AZ",900389314,4013
+0.00,3.31,84,0,3.31,84,0,3.31,84,Aurora Saint Luke's Medical Center,"Milwaukee County, WI",390806181,55079
+0.00,1.21,81,0,1.21,81,0,1.21,81,Phoenix Children's Hospital,"Maricopa County, AZ",860422559,4013
+0.00,2.91,80,0,2.91,80,0,2.91,80,UF Health Jacksonville,"Duval County, FL",592142859,12031
+0.00,7.98,75,0,7.98,75,0,7.98,75,Lee Memorial Hospital,"Lee County, FL",590714812,12071
+0.00,6.81,74,0,6.81,74,0,6.81,74,Cox North Hospital,"Greene County, MO",440577118,29077
+0.00,2.69,72,0,2.69,72,0,2.69,72,JFK Medical Center - Main,"Palm Beach County, FL",621694180,12099
+0.00,4.3,65,0,4.3,65,0,4.3,65,Saint Joseph Hospital,"Denver County, CO",840417134,8031
+0.00,1.56,61,0,1.56,61,0,1.56,61,Plantation General Hospital,"Broward County, FL",621372389,12011
+0.00,0.88,59,0,0.88,59,0,0.88,59,HonorHealth Scottsdale Osborn Medical Center,"Maricopa County, AZ",860181654,4013
+0.00,1.46,57,0,1.46,57,0,1.46,57,Broward Health Medical Center,"Broward County, FL",596012065,12011
+0.00,1.97,54,0,1.97,54,0,1.97,54,Mayo Clinic Hospital in Florida,"Duval County, FL",590714831,12031
+0.00,1.95,52,0,1.95,52,0,1.95,52,Delray Medical Center,"Palm Beach County, FL",752922687,12099
+0.00,1.86,51,0,1.86,51,0,1.86,51,Memorial Hospital,"Duval County, FL",593283127,12031
+0.00,1.13,49,0,1.13,49,0,1.13,49,CHRISTUS Santa Rosa Hospital - Medical Center,"Bexar County, TX",741109665,48029
+0.00,1.23,48,0,1.23,48,0,1.23,48,Cleveland Clinic in Florida - Weston,"Broward County, FL",650844880,12011
+0.00,0.69,46,0,0.69,46,0,0.69,46,Banner - University Medical Center Phoenix,"Maricopa County, AZ",270036499,4013
+0.00,1.12,44,0,1.12,44,0,1.12,44,Holy Cross Hospital,"Broward County, FL",590791028,12011
+0.00,1.65,42,0,1.65,42,0,1.65,42,Ascension SE Wisconsin Hospital-St. Joseph Campus,"Milwaukee County, WI",390816857,55079
+0.00,1.5,40,0,1.5,40,0,1.5,40,Bethesda Hospital East,"Palm Beach County, FL",592447554,12099
+0.00,1.5,40,0,1.5,40,0,1.5,40,Boca Raton Regional Hospital,"Palm Beach County, FL",591006663,12099
+0.00,2.38,36,0,2.38,36,0,2.38,36,Porter Adventist Hospital,"Denver County, CO",840438224,8031
+0.00,1.42,36,0,1.42,36,0,1.42,36,Ascension Columbia Saint Mary's Hospital Milwaukee,"Milwaukee County, WI",390806315,55079
+0.00,2.31,35,0,2.31,35,0,2.31,35,Rose Medical Center,"Denver County, CO",841321373,8031
+0.00,5.71,35,0,5.71,35,0,5.71,35,St. Joseph Mercy Ann Arbor,"Washtenaw County, MI",383175878,26161
+0.00,0.51,34,0,0.51,34,0,0.51,34,Banner Del E. Webb Medical Center,"Maricopa County, AZ",900389312,4013
+0.00,2.11,32,0,2.11,32,0,2.11,32,Denver Health,"Denver County, CO",841343242,8031
+0.00,0.82,32,0,0.82,32,0,0.82,32,Westside Regional Medical Center,"Broward County, FL",752482249,12011
+0.00,0.82,32,0,0.82,32,0,0.82,32,Memorial Hospital West,"Broward County, FL",596014973,12011
+0.00,0.45,30,0,0.45,30,0,0.45,30,Mayo Clinic Hospital,"Maricopa County, AZ",860800150,4013
+0.00,0.45,30,0,0.45,30,0,0.45,30,Mountain Vista Medical Center,"Maricopa County, AZ",202066363,4013
+0.00,7.03,30,0,7.03,30,0,7.03,30,Lehigh Valley Hospital - Muhlenberg,"Northampton County, PA",232367707,42095
+0.00,1.06,29,0,1.06,29,0,1.06,29,Ascension St. Vincent's Riverside Hospital,"Duval County, FL",590624449,12031
+0.00,0.42,28,0,0.42,28,0,0.42,28,Abrazo Central Campus,"Maricopa County, AZ",621809851,4013
+0.00,3.22,26,0,3.22,26,0,3.22,26,Manteca Medical Center,"San Joaquin County, CA",941105628,6077
+0.00,0.97,26,0,0.97,26,0,0.97,26,Saint Mary's Medical Center,"Palm Beach County, FL",752932830,12099
+0.00,0.6,26,0,0.6,26,0,0.6,26,Children's Hospital of San Antonio,"Bexar County, TX",741109665,48029
+0.00,0.37,25,0,0.37,25,0,0.37,25,HonorHealth Scottsdale Shea Medical Center,"Maricopa County, AZ",860181654,4013
+0.00,0.61,24,0,0.61,24,0,0.61,24,Northwest Medical Center,"Broward County, FL",611259843,12011
+0.00,0.61,24,0,0.61,24,0,0.61,24,Memorial Hospital Pembroke,"Broward County, FL",596014973,12011
+0.00,5.62,24,0,5.62,24,0,5.62,24,Easton Hospital,"Northampton County, PA",815354718,42095
+0.00,0.3,20,0,0.3,20,0,0.3,20,HonorHealth John C. Lincoln Medical Center,"Maricopa County, AZ",860181654,4013
+0.00,0.3,20,0,0.3,20,0,0.3,20,Valleywise Health Medical Center,"Maricopa County, AZ",860830701,4013
+0.00,0.75,20,0,0.75,20,0,0.75,20,JFK Medical Center - North Campus,"Palm Beach County, FL",621694177,12099
+0.00,0.46,20,0,0.46,20,0,0.46,20,University Hospital,"Bexar County, TX",746002164,48029
+0.00,0.79,20,0,0.79,20,0,0.79,20,Ascension St. Francis Hospital,"Milwaukee County, WI",390907740,55079
+0.00,0.67,18,0,0.67,18,0,0.67,18,Palms West Hospital,"Palm Beach County, FL",621694178,12099
+0.00,2.57,18,0,2.57,18,0,2.57,18,Christ Hospital,"Hudson County, NJ",383870608,34017
+0.00,2.57,18,0,2.57,18,0,2.57,18,Jersey City Medical Center,"Hudson County, NJ",222783298,34017
+0.00,1.98,16,0,1.98,16,0,1.98,16,San Joaquin General Hospital,"San Joaquin County, CA",946000531,6077
+0.00,0.6,16,0,0.6,16,0,0.6,16,West Boca Medical Center,"Palm Beach County, FL",752922710,12099
+0.00,0.6,16,0,0.6,16,0,0.6,16,Wellington Regional Medical Center,"Palm Beach County, FL",232306491,12099
+0.00,0.41,16,0,0.41,16,0,0.41,16,Broward Health Coral Springs,"Broward County, FL",596012065,12011
+0.00,1.26,16,0,1.26,16,0,1.26,16,Rochester General Hospital,"Monroe County, NY",160743134,36055
+0.00,0.63,16,0,0.63,16,0,0.63,16,Aurora West Allis Medical Center,"Milwaukee County, WI",391022464,55079
+0.00,0.38,15,0,0.38,15,0,0.38,15,University Hospital and Medical Center,"Broward County, FL",650566885,12011
+0.00,2.14,15,0,2.14,15,0,2.14,15,Hoboken University Medical Center,"Hudson County, NJ",452147328,34017
+0.00,2,14,0,2,14,0,2,14,Bayonne Medical Center,"Hudson County, NJ",261442063,34017
+0.00,1.1,14,0,1.1,14,0,1.1,14,Highland Hospital,"Monroe County, NY",160743037,36055
+0.00,1.1,14,0,1.1,14,0,1.1,14,Unity Hospital,"Monroe County, NY",237221763,36055
+0.00,2.81,12,0,2.81,12,0,2.81,12,Saint Luke's  Anderson Campus,"Northampton County, PA",454394739,42095
+0.00,1.43,10,0,1.43,10,0,1.43,10, Palisades Medical Center,"Hudson County, NJ",221487576,34017
+0.00,8.44,9,0,8.44,9,0,8.44,9,Rockville General Hospital,"Tolland County, CT",812229999,9013
+0.00,0.12,8,0,0.12,8,0,0.12,8,HonorHealth Scottsdale Thompson Peak Medical Center,"Maricopa County, AZ",860181654,4013
+0.00,0.22,6,0,0.22,6,0,0.22,6,Lakeside Medical Center,"Palm Beach County, FL",352226306,12099
+0.00,9.54,370,0,9.54,370,0,9.54,370,AdventHealth Orlando,"Orange County, FL",590724459,12095
+0.00,4.78,175,0,4.78,175,0,4.78,175,Norton Hospital,"Jefferson County, KY",610703799,21111
+0.00,2.38,146,0,2.38,146,0,2.38,146,Vanderbilt University Hospital,"Davidson County, TN",352528741,47037
+0.00,4.07,122,0,4.07,122,0,4.07,122,Oklahoma University Medical Center,"Oklahoma County, OK",821883948,40109
+0.00,2.71,121,0,2.71,121,0,2.71,121,Boston Children's Hospital,"Suffolk County, MA",42774441,25025
+0.00,7.33,121,0,7.33,121,0,7.33,121,Legacy Emanuel  Medical Center,"Multnomah County, OR",930386823,41051
+0.00,2.83,116,0,2.83,116,0,2.83,116,Fontana Medical Center,"San Bernardino County, CA",941105628,6071
+0.00,1.9,110,0,1.9,110,0,1.9,110,UPMC Presbyterian,"Allegheny County, PA",250965480,42003
+0.00,7.31,106,0,7.31,106,0,7.31,106,The University of Kansas Hospital,"Wyandotte County, KS",481202402,20209
+0.00,2.19,98,0,2.19,98,0,2.19,98,Tufts Medical Center,"Suffolk County, MA",43400617,25025
+0.00,2.16,97,0,2.16,97,0,2.16,97,Ohio State University Wexner Medical Center,"Franklin County, OH",311340739,39049
+0.00,2.4,88,0,2.4,88,0,2.4,88,UofL Health - Jewish Hospital,"Jefferson County, KY",611029768,21111
+0.00,1.96,88,0,1.96,88,0,1.96,88,OhioHealth Riverside Methodist Hospital,"Franklin County, OH",314394942,39049
+0.00,1.43,88,0,1.43,88,0,1.43,88,Ascension Saint Thomas West,"Davidson County, TN",620347580,47037
+0.00,3.89,84,0,3.89,84,0,3.89,84,Hartford Hospital,"Hartford County, CT",60646668,9003
+0.00,4.85,82,0,4.85,82,0,4.85,82,UMass Memorial Medical Center - University Campus,"Worcester County, MA",43358564,25027
+0.00,4.79,79,0,4.79,79,0,4.79,79,Oregon Health & Science University Hospital,"Multnomah County, OR",931176109,41051
+0.00,1.72,77,0,1.72,77,0,1.72,77,Beth Israel Deaconess Medical Center,"Suffolk County, MA",42103881,25025
+0.00,1.65,74,0,1.65,74,0,1.65,74,Nationwide Children's Hospital,"Franklin County, OH",314379441,39049
+0.00,1.83,71,0,1.83,71,0,1.83,71,Orlando Regional Medical Center,"Orange County, FL",591726273,12095
+0.00,1.59,71,0,1.59,71,0,1.59,71,Boston Medical Center,"Suffolk County, MA",43314093,25025
+0.00,3.24,70,0,3.24,70,0,3.24,70,Saint Francis Hospital and Medical Center,"Hartford County, CT",60646813,9003
+0.00,3.37,67,0,3.37,67,0,3.37,67,Jefferson Cherry Hill Hospital,"Camden County, NJ",221773439,34007
+0.00,0.94,64,0,0.94,64,0,0.94,64,The Cleveland Clinic,"Cuyahoga County, OH",340714585,39035
+0.00,1.1,64,0,1.1,64,0,1.1,64,Forbes Hospital,"Allegheny County, PA",250969492,42003
+0.00,12.08,64,0,12.08,64,0,12.08,64,Saint Mary's Hospital,"Henrico County, VA",540793767,51087
+0.00,11.11,60,0,11.11,60,0,11.11,60,Kaiser Sunnyside Medical Center,"Clackamas County, OR",941105628,41005
+0.00,0.98,56,0,0.98,56,0,0.98,56,Scripps Mercy Hospital San Diego,"San Diego County, CA",951684089,6073
+0.00,1.53,56,0,1.53,56,0,1.53,56,University of Louisville Hospital,"Jefferson County, KY",611293786,21111
+0.00,0.95,54,0,0.95,54,0,0.95,54,Rady Children's Hospital - San Diego,"San Diego County, CA",951691313,6073
+0.00,0.93,54,0,0.93,54,0,0.93,54,West Penn Hospital,"Allegheny County, PA",250969492,42003
+0.00,2.41,52,0,2.41,52,0,2.41,52,Lahey Hospital and Medical Center Burlington,"Middlesex County, MA",42704686,25017
+0.00,1.77,50,0,1.77,50,0,1.77,50,Oakland Medical Center,"Alameda County, CA",941105628,6001
+0.00,0.88,50,0,0.88,50,0,0.88,50,Scripps Green Hospital,"San Diego County, CA",951684089,6073
+0.00,2.69,50,0,2.69,50,0,2.69,50,Yale-New Haven Hospital,"New Haven County, CT",60646652,9009
+0.00,0.86,50,0,0.86,50,0,0.86,50,Allegheny General Hospital,"Allegheny County, PA",250969492,42003
+0.00,0.84,48,0,0.84,48,0,0.84,48,Palomar Medical Center Escondido,"San Diego County, CA",956003843,6073
+0.00,2.41,48,0,2.41,48,0,2.41,48,Virtua Voorhees Hospital,"Camden County, NJ",210634532,34007
+0.00,1.15,47,0,1.15,47,0,1.15,47,Saint Bernardine Medical Center,"San Bernardino County, CA",941196203,6071
+0.00,1.03,46,0,1.03,46,0,1.03,46,Saint Elizabeth's Medical Center,"Suffolk County, MA",272473667,25025
+0.00,0.98,44,0,0.98,44,0,0.98,44,Ohio State University Comprehensive Cancer Center - Arthur G. James Cancer Hospital,"Franklin County, OH",311322863,39049
+0.00,1.47,44,0,1.47,44,0,1.47,44,INTEGRIS Baptist Medical Center,"Oklahoma County, OK",731034824,40109
+0.00,1,41,0,1,41,0,1,41,Loma Linda University Medical Center,"San Bernardino County, CA",953522679,6071
+0.00,0.56,38,0,0.56,38,0,0.56,38,Fairview Hospital,"Cuyahoga County, OH",340714618,39035
+0.00,0.6,37,0,0.6,37,0,0.6,37,Saint Thomas Midtown Hospital,"Davidson County, TN",621869474,47037
+0.00,2.81,36,0,2.81,36,0,2.81,36,Mercy Medical Center,"Stark County, OH",341893439,39151
+0.00,0.53,36,0,0.53,36,0,0.53,36,UH Saint John Medical Center,"Cuyahoga County, OH",341260978,39035
+0.00,2.18,36,0,2.18,36,0,2.18,36,Providence Portland Medical Center,"Multnomah County, OR",930386906,41051
+0.00,0.62,36,0,0.62,36,0,0.62,36,Children's Hospital of Pittsburgh of UPMC,"Allegheny County, PA",250402510,42003
+0.00,0.78,35,0,0.78,35,0,0.78,35,OhioHealth Grant Medical Center,"Franklin County, OH",314394942,39049
+0.00,3.59,33,0,3.59,33,0,3.59,33,AMITA Health Saint Joseph Medical Center Joliet,"Will County, IL",364195126,17197
+0.00,0.78,32,0,0.78,32,0,0.78,32,Arrowhead Regional Medical Center,"San Bernardino County, CA",956002748,6071
+0.00,1.13,32,0,1.13,32,0,1.13,32,Highland Hospital,"Alameda County, CA",943302014,6001
+0.00,0.56,32,0,0.56,32,0,0.56,32,Kaiser Permanente Zion Medical Center,"San Diego County, CA",941105628,6073
+0.00,1.48,32,0,1.48,32,0,1.48,32,Manchester Memorial Hospital,"Hartford County, CT",812216981,9003
+0.00,0.55,32,0,0.55,32,0,0.55,32,UPMC Passavant - McCandless,"Allegheny County, PA",250965451,42003
+0.00,1.51,30,0,1.51,30,0,1.51,30,Cooper University Hospital,"Camden County, NJ",210634462,34007
+0.00,0.44,30,0,0.44,30,0,0.44,30,UH Cleveland Medical Center,"Cuyahoga County, OH",341567805,39035
+0.00,6.82,30,0,6.82,30,0,6.82,30,Kadlec Regional Medical Center,"Benton County, WA",910655392,53005
+0.00,0.49,28,0,0.49,28,0,0.49,28,Tri-City Medical Center,"San Diego County, CA",952126937,6073
+0.00,2.98,28,0,2.98,28,0,2.98,28,Saint Anthony Hospital,"Jefferson County, CO",840405257,8059
+0.00,10,28,0,10,28,0,10,28,Orange Park Medical Center,"Clay County, FL",611269295,12019
+0.00,2.89,28,0,2.89,28,0,2.89,28,Saint Joseph's University Medical Center,"Passaic County, NJ",221487602,34031
+0.00,10,28,0,10,28,0,10,28,Robert Wood Johnson University Hospital Somerset,"Somerset County, NJ",221487243,34035
+0.00,0.41,28,0,0.41,28,0,0.41,28,MetroHealth Medical Center,"Cuyahoga County, OH",346004382,39035
+0.00,1.7,28,0,1.7,28,0,1.7,28,Legacy Good Samaritan Hospital,"Multnomah County, OR",930386793,41051
+0.00,0.9,27,0,0.9,27,0,0.9,27,SSM Health Saint Anthony Hospital - Oklahoma City,"Oklahoma County, OK",730657693,40109
+0.00,1.2,26,0,1.2,26,0,1.2,26,Winchester Hospital,"Middlesex County, MA",42104434,25017
+0.00,2.65,26,0,2.65,26,0,2.65,26,McLeod Regional Medical Center,"Florence County, SC",570370242,45041
+0.00,2.58,25,0,2.58,25,0,2.58,25,Saint Mary's General Hospital,"Passaic County, NJ",463499370,34031
+0.00,0.37,25,0,0.37,25,0,0.37,25,South Pointe Hospital,"Cuyahoga County, OH",340714593,39035
+0.00,1.11,24,0,1.11,24,0,1.11,24,The Hospital of Central Connecticut at New Britain General,"Hartford County, CT",60646768,9003
+0.00,4.71,24,0,4.71,24,0,4.71,24,Regional Hospital of Scranton,"Lackawanna County, PA",274564798,42069
+0.00,0.82,23,0,0.82,23,0,0.82,23,UCSF Benioff Children's Hospital Oakland,"Alameda County, CA",940382330,6001
+0.00,0.34,23,0,0.34,23,0,0.34,23,Hillcrest Hospital,"Cuyahoga County, OH",340714593,39035
+0.00,1.02,22,0,1.02,22,0,1.02,22,Framingham Union Hospital,"Middlesex County, MA",621861200,25017
+0.00,0.36,22,0,0.36,22,0,0.36,22,Nashville General Hospital at Meharry,"Davidson County, TN",202844893,47037
+0.00,1.06,21,0,1.06,21,0,1.06,21,Virtua Our Lady of Lourdes Hospital,"Camden County, NJ",210635001,34007
+0.00,0.71,20,0,0.71,20,0,0.71,20,San Leandro Medical Center,"Alameda County, CA",941105628,6001
+0.00,1.08,20,0,1.08,20,0,1.08,20,Waterbury Hospital,"New Haven County, CT",812181470,9009
+0.00,0.93,20,0,0.93,20,0,0.93,20,UConn John Dempsey Hospital,"Hartford County, CT",66000798,9003
+0.00,8.33,20,0,8.33,20,0,8.33,20,Berkshire Medical Center,"Berkshire County, MA",42791396,25003
+0.00,0.45,20,0,0.45,20,0,0.45,20,Massachusetts General Hospital,"Suffolk County, MA",42697983,25025
+0.00,1.56,20,0,1.56,20,0,1.56,20,Aultman Hospital,"Stark County, OH",340714538,39151
+0.00,0.29,20,0,0.29,20,0,0.29,20,UH Ahuja Medical Center,"Cuyahoga County, OH",264827222,39035
+0.00,0.67,20,0,0.67,20,0,0.67,20,INTEGRIS Southwest Medical Center,"Oklahoma County, OK",731089149,40109
+0.00,2.35,20,0,2.35,20,0,2.35,20,Providence Saint Vincent Medical Center,"Washington County, OR",930386929,41067
+0.00,2.35,20,0,2.35,20,0,2.35,20,Kaiser Permanente Westside Medical Center,"Washington County, OR",941105628,41067
+0.00,0.34,20,0,0.34,20,0,0.34,20,UPMC Mercy,"Allegheny County, PA",250965429,42003
+0.00,0.83,18,0,0.83,18,0,0.83,18,CHA Cambridge Hospital,"Middlesex County, MA",43320571,25017
+0.00,0.4,18,0,0.4,18,0,0.4,18,OhioHealth Doctors Hospital,"Franklin County, OH",314394942,39049
+0.00,3.53,18,0,3.53,18,0,3.53,18,Geisinger-Community Medical Center,"Lackawanna County, PA",240862246,42069
+0.00,0.31,18,0,0.31,18,0,0.31,18, UPMC Magee-Womens Hospital,"Allegheny County, PA",250965420,42003
+0.00,0.25,17,0,0.25,17,0,0.25,17,UH Richmond Medical Center,"Cuyahoga County, OH",341924226,39035
+0.00,0.86,16,0,0.86,16,0,0.86,16,Yale-New Haven Hospital Saint Raphael Campus,"New Haven County, CT",60653171,9009
+0.00,0.86,16,0,0.86,16,0,0.86,16,Saint Mary's Hospital,"New Haven County, CT",60646844,9009
+0.00,0.24,16,0,0.24,16,0,0.24,16,UH Parma Medical Center,"Cuyahoga County, OH",340827442,39035
+0.00,0.34,14,0,0.34,14,0,0.34,14,Chino Valley Medical Center,"San Bernardino County, CA",330928285,6071
+0.00,0.75,14,0,0.75,14,0,0.75,14,Griffin Hospital,"New Haven County, CT",60647014,9009
+0.00,0.24,14,0,0.24,14,0,0.24,14,UPMC Saint Margaret,"Allegheny County, PA",232875070,42003
+0.00,3.18,14,0,3.18,14,0,3.18,14,Trios Women's and Children's Hospital,"Benton County, WA",823962056,53005
+0.00,0.21,12,0,0.21,12,0,0.21,12,Scripps Memorial Hospital Encinitas,"San Diego County, CA",951684089,6073
+0.00,0.56,12,0,0.56,12,0,0.56,12,Lawrence Memorial Hospital,"Middlesex County, MA",42767880,25017
+0.00,0.56,12,0,0.56,12,0,0.56,12,Newton-Wellesley Hospital,"Middlesex County, MA",42103611,25017
+0.00,0.27,12,0,0.27,12,0,0.27,12,Mount Carmel Saint Ann's,"Franklin County, OH",311439334,39049
+0.00,0.94,12,0,0.94,12,0,0.94,12,Alliance Community Hospital,"Stark County, OH",340714581,39151
+0.00,0.16,11,0,0.16,11,0,0.16,11,UH Bedford Medical Center,"Cuyahoga County, OH",341271115,39035
+0.00,2.16,11,0,2.16,11,0,2.16,11,Moses Taylor Hospital,"Lackawanna County, PA",452672023,42069
+0.00,0.59,10,0,0.59,10,0,0.59,10,UMass Memorial HealthAlliance - Clinton Hospital - Leominster Campus,"Worcester County, MA",42103555,25027
+0.00,0.46,10,0,0.46,10,0,0.46,10,Mount Auburn Hospital,"Middlesex County, MA",42103606,25017
+0.00,0.22,10,0,0.22,10,0,0.22,10,Carney Hospital,"Suffolk County, MA",272473755,25025
+0.00,0.22,10,0,0.22,10,0,0.22,10,New England Baptist Hospital,"Suffolk County, MA",42103612,25025
+0.00,0.59,10,0,0.59,10,0,0.59,10,Milford Regional Medical Center,"Worcester County, MA",42103602,25027
+0.00,0.15,10,0,0.15,10,0,0.15,10,Saint Vincent Charity Medical Center,"Cuyahoga County, OH",340714756,39035
+0.00,0.15,10,0,0.15,10,0,0.15,10,Cleveland Clinic Lutheran Hospital,"Cuyahoga County, OH",340714684,39035
+0.00,0.2,8,0,0.2,8,0,0.2,8,Montclair Hospital Medical Center,"San Bernardino County, CA",202898771,6071
+0.00,1.11,6,0,1.11,6,0,1.11,6,Providence Milwaukie Hospital,"Clackamas County, OR",930924302,41005
+0.00,6.01,214,0,6.01,214,0,6.01,214,Inova Fairfax Hospital,"Fairfax County, VA",540620889,51059
+0.00,2.09,196,0,2.09,196,0,2.09,196,SSM Health DePaul Hospital - St. Louis,"St. Louis County, MO",431343281,29189
+0.00,1.05,193,0,1.05,193,0,1.05,193,Houston Methodist Hospital,"Harris County, TX",741180155,48201
+0.00,4.76,162,0,4.76,162,0,4.76,162,Parkview Regional Medical Center,"Allen County, IN",350868085,18003
+0.00,0.86,157,0,0.86,157,0,0.86,157,Memorial Hermann Southwest Hospital,"Harris County, TX",741152597,48201
+0.00,2.81,146,0,2.81,146,0,2.81,146,University of Kentucky Albert B. Chandler Hospital,"Fayette County, KY",616001218,21067
+0.00,0.78,144,0,0.78,144,0,0.78,144,CHI Saint Luke's Health-Baylor Saint Luke's Medical Center,"Harris County, TX",741161938,48201
+0.00,3.56,138,0,3.56,138,0,3.56,138,CHRISTUS Mother Frances Hospital - Tyler,"Smith County, TX",750818167,48423
+0.00,3.93,118,0,3.93,118,0,3.93,118,Spectrum Health Butterworth Hospital,"Kent County, MI",381360529,26081
+0.00,1.11,117,0,1.11,117,0,1.11,117,Thomas Jefferson University Hospital - Center City Campus,"Philadelphia County, PA",232829095,42101
+0.00,2.58,114,0,2.58,114,0,2.58,114,MUSC Health University Hospital,"Charleston County, SC",571098556,45019
+0.00,1.57,106,0,1.57,106,0,1.57,106,UCSF Medical Center at Parnassus,"San Francisco County, CA",943281657,6075
+0.00,1.32,100,0,1.32,100,0,1.32,100,Saint Francis Hospital,"Tulsa County, OK",730700090,40143
+0.00,2.28,98,0,2.28,98,0,2.28,98,Erlanger Baroness Hospital,"Hamilton County, TN",626000101,47065
+0.00,1.52,90,0,1.52,90,0,1.52,90,Banner -  University Medical Center Tucson,"Pima County, AZ",901074557,4019
+0.00,0.83,88,0,0.83,88,0,0.83,88,The Children's Hospital of Philadelphia,"Philadelphia County, PA",231352166,42101
+0.00,0.66,86,0,0.66,86,0,0.66,86,Anaheim Medical Center,"Orange County, CA",941105628,6059
+0.00,2.47,84,0,2.47,84,0,2.47,84,Lutheran Hospital,"Allen County, IN",351963748,18003
+0.00,2.35,84,0,2.35,84,0,2.35,84,Westchester Medical Center,"Westchester County, NY",133964321,36119
+0.00,3.73,82,0,3.73,82,0,3.73,82,University of Missouri Hospital,"Boone County, MO",436003859,29019
+0.00,5.57,78,0,5.57,78,0,5.57,78,Kaiser Permanente Roseville Medical Center,"Placer County, CA",941105628,6061
+0.00,1.3,71,0,1.3,71,0,1.3,71,Saint Luke's Hospital of Kansas City,"Jackson County, MO",440545297,29095
+0.00,1.34,70,0,1.34,70,0,1.34,70,Buffalo General Medical Center,"Erie County, NY",161533232,36029
+0.00,0.84,69,0,0.84,69,0,0.84,69,Texas Health Fort Worth,"Tarrant County, TX",756001743,48439
+0.00,0.63,67,0,0.63,67,0,0.63,67,Jefferson Torresdale Hospital,"Philadelphia County, PA",230596940,42101
+0.00,0.71,66,0,0.71,66,0,0.71,66,Mercy Hospital Saint Louis,"St. Louis County, MO",430653493,29189
+0.00,2.91,64,0,2.91,64,0,2.91,64,AdventHealth Shawnee Mission,"Johnson County, KS",480637331,20091
+0.00,0.83,63,0,0.83,63,0,0.83,63,Saint John Medical Center,"Tulsa County, OK",730579286,40143
+0.00,4.44,63,0,4.44,63,0,4.44,63,Geisinger Wyoming Valley Medical Center,"Luzerne County, PA",231996150,42079
+0.00,2.63,62,0,2.63,62,0,2.63,62,Sarasota Memorial Hospital,"Sarasota County, FL",596012500,12115
+0.00,0.86,58,0,0.86,58,0,0.86,58,Zuckerberg San Francisco General Hospital and Trauma Center,"San Francisco County, CA",946000417,6075
+0.00,1.13,58,0,1.13,58,0,1.13,58,AMITA Health Adventist Medical Center Hinsdale,"DuPage County, IL",362276984,17043
+0.00,7.44,58,0,7.44,58,0,7.44,58,UnityPoint Health - Meriter,"Dane County, WI",390806367,55025
+0.00,2.8,56,0,2.8,56,0,2.8,56,Grand Strand Regional Medical Center,"Horry County, SC",621768105,45051
+0.00,0.31,56,0,0.31,56,0,0.31,56,The University of Texas M. D. Anderson Cancer Center,"Harris County, TX",746001118,48201
+0.00,1.69,55,0,1.69,55,0,1.69,55,Walnut Creek Medical Center,"Contra Costa County, CA",941461843,6013
+0.00,0.8,54,0,0.8,54,0,0.8,54,Kaiser Permanente San Francisco Medical Center,"San Francisco County, CA",941105628,6075
+0.00,1.39,54,0,1.39,54,0,1.39,54,UT Health Tyler,"Smith County, TX",823878395,48423
+0.00,1.87,52,0,1.87,52,0,1.87,52,Ventura County Medical Center,"Ventura County, CA",956000944,6111
+0.00,1,52,0,1,52,0,1,52,Baptist Health Lexington,"Fayette County, KY",610444707,21067
+0.00,0.56,52,0,0.56,52,0,0.56,52,SSM Health Saint Mary's Hospital - Saint Louis,"St. Louis County, MO",431343281,29189
+0.00,3.38,52,0,3.38,52,0,3.38,52,Norman Regional Hospital,"Cleveland County, OK",736048282,40027
+0.00,0.38,50,0,0.38,50,0,0.38,50,UCI Health,"Orange County, CA",952226406,6059
+0.00,1.78,48,0,1.78,48,0,1.78,48,HealthEast Saint Joseph's Hospital,"Ramsey County, MN",410693880,27123
+0.00,1.27,48,0,1.27,48,0,1.27,48,Multicare Tacoma General Hospital,"Pierce County, WA",911352172,53053
+0.00,2.8,46,0,2.8,46,0,2.8,46,Northside Hospital Gwinnett,"Gwinnett County, GA",582002413,13135
+0.00,1.53,46,0,1.53,46,0,1.53,46,Holy Cross Hospital,"Montgomery County, MD",520738041,24031
+0.00,1.07,46,0,1.07,46,0,1.07,46,Lankenau Hospital,"Montgomery County, PA",231352160,42091
+0.00,2.27,45,0,2.27,45,0,2.27,45,HSHS Saint John's Hospital,"Sangamon County, IL",370661238,17167
+0.00,2.72,44,0,2.72,44,0,2.72,44,Mercy Medical Center Redding,"Shasta County, CA",941196203,6089
+0.00,0.42,44,0,0.42,44,0,0.42,44,Penn Presbyterian Medical Center,"Philadelphia County, PA",232810852,42101
+0.00,0.42,44,0,0.42,44,0,0.42,44,Saint Christopher's Hospital for Children,"Philadelphia County, PA",822828395,42101
+0.00,0.54,44,0,0.54,44,0,0.54,44,Medical City Fort Worth,"Tarrant County, TX",621682202,48439
+0.00,2.39,43,0,2.39,43,0,2.39,43,Blake Medical Center,"Manatee County, FL",621113740,12081
+0.00,0.41,43,0,0.41,43,0,0.41,43,Temple University Hospital,"Philadelphia County, PA",232825878,42101
+0.00,0.32,42,0,0.32,42,0,0.32,42,Orange County Global Medical Center,"Orange County, CA",550883862,6059
+0.00,0.75,41,0,0.75,41,0,0.75,41,TMC Health Sciences District.,"Jackson County, MO",440661018,29095
+0.00,0.75,41,0,0.75,41,0,0.75,41,Children's Mercy Adele Hall Campus,"Jackson County, MO",440605373,29095
+0.00,0.73,40,0,0.73,40,0,0.73,40,Centerpoint Medical Center,"Jackson County, MO",450503121,29095
+0.00,0.43,40,0,0.43,40,0,0.43,40,Missouri Baptist Medical Center,"St. Louis County, MO",430652656,29189
+0.00,8,40,0,8,40,0,8,40,Atrium Health Cabarrus,"Cabarrus County, NC",560529945,37025
+0.00,1.3,39,0,1.3,39,0,1.3,39,Johns Hopkins Suburban Hospital,"Montgomery County, MD",520610545,24031
+0.00,0.68,38,0,0.68,38,0,0.68,38,Morton Plant Hospital,"Pinellas County, FL",590624462,12103
+0.00,1.92,38,0,1.92,38,0,1.92,38,Memorial Medical Center,"Sangamon County, IL",370661220,17167
+0.00,0.73,38,0,0.73,38,0,0.73,38,CHI Saint Joseph Health Hospital,"Fayette County, KY",611334601,21067
+0.00,0.76,38,0,0.76,38,0,0.76,38,Mercy Health- Saint Vincent Medical Center,"Lucas County, OH",344428250,39095
+0.00,5,38,0,5,38,0,5,38,Monument Health Rapid City Hospital,"Pennington County, SD",460319070,46103
+0.00,0.21,38,0,0.21,38,0,0.21,38,Memorial Hermann - Texas Medical Center,"Harris County, TX",741152597,48201
+0.00,0.21,38,0,0.21,38,0,0.21,38,HCA Houston Healthcare Northwest,"Harris County, TX",261512163,48201
+0.00,3.65,38,0,3.65,38,0,3.65,38,Virginia Mason Memorial,"Yakima County, WA",910567263,53077
+0.00,0.61,36,0,0.61,36,0,0.61,36,Tucson Medical Center,"Pima County, AZ",860137567,4019
+0.00,1.1,36,0,1.1,36,0,1.1,36,Concord Medical Center,"Contra Costa County, CA",680396600,6013
+0.00,0.28,36,0,0.28,36,0,0.28,36,Fountain Valley Regional  Hospital and Medical Center,"Orange County, CA",952768729,6059
+0.00,5,36,0,5,36,0,5,36,IU Health Ball Memorial Hospital,"Delaware County, IN",350867958,18035
+0.00,0.72,36,0,0.72,36,0,0.72,36,ProMedica Toledo Hospital,"Lucas County, OH",344428256,39095
+0.00,0.81,36,0,0.81,36,0,0.81,36,Trident Medical Center,"Charleston County, SC",621768106,45019
+0.00,0.44,36,0,0.44,36,0,0.44,36,John Peter Smith Hospital,"Tarrant County, TX",756000439,48439
+0.00,1.94,35,0,1.94,35,0,1.94,35,Manatee Memorial Hospital,"Manatee County, FL",232798290,12081
+0.00,1.3,35,0,1.3,35,0,1.3,35,United Hospital,"Ramsey County, MN",363261413,27123
+0.00,0.61,34,0,0.61,34,0,0.61,34,Bayfront Health St. Petersburg,"Pinellas County, FL",300759177,12103
+0.00,1.91,34,0,1.91,34,0,1.91,34,University of Maryland Prince George's Hospital Center,"Prince George's County, MD",521289729,24033
+0.00,0.32,34,0,0.32,34,0,0.32,34,Hospital of the University of Pennsylvania,"Philadelphia County, PA",231352685,42101
+0.00,0.79,34,0,0.79,34,0,0.79,34, CHI Memorial Hospital Chattanooga,"Hamilton County, TN",620532345,47065
+0.00,0.44,33,0,0.44,33,0,0.44,33,Oklahoma State University Medical Center,"Tulsa County, OK",264331175,40143
+0.00,0.77,33,0,0.77,33,0,0.77,33,Abington Hospital  - Jefferson Health,"Montgomery County, PA",231352152,42091
+0.00,0.57,32,0,0.57,32,0,0.57,32,Northside Hospital & Tampa Bay Heart Institute,"Pinellas County, FL",610947837,12103
+0.00,0.57,32,0,0.57,32,0,0.57,32,Largo Medical Center,"Pinellas County, FL",621026428,12103
+0.00,1.07,32,0,1.07,32,0,1.07,32,Mercy Health Saint Mary's,"Kent County, MI",383176445,26081
+0.00,0.3,32,0,0.3,32,0,0.3,32,Einstein Medical Center Philadelphia,"Philadelphia County, PA",231396794,42101
+0.00,4.1,32,0,4.1,32,0,4.1,32,University Hospital,"Dane County, WI",391835630,55025
+0.00,1.89,31,0,1.89,31,0,1.89,31,Santa Rosa Hospital,"Sonoma County, CA",941105628,6097
+0.00,5,30,0,5,30,0,5,30,Advocate BroMenn Regional Medical Center,"McLean County, IL",362169147,17113
+0.00,1.88,30,0,1.88,30,0,1.88,30,Overlook Medical Center,"Union County, NJ",521958352,34039
+0.00,0.57,30,0,0.57,30,0,0.57,30,Sisters of Charity Hospital,"Erie County, NY",160743187,36029
+0.00,0.57,30,0,0.57,30,0,0.57,30,Erie County Medical Center,"Erie County, NY",830382654,36029
+0.00,0.4,30,0,0.4,30,0,0.4,30,Hillcrest Medical Center,"Tulsa County, OK",770633896,40143
+0.00,2.11,30,0,2.11,30,0,2.11,30,Wilkes-Barre General Hospital,"Luzerne County, PA",263632648,42079
+0.00,0.7,30,0,0.7,30,0,0.7,30,Bryn Mawr Hospital,"Montgomery County, PA",231352160,42091
+0.00,0.16,30,0,0.16,30,0,0.16,30,Ben Taub General Hospital,"Harris County, TX",741536936,48201
+0.00,0.78,29,0,0.78,29,0,0.78,29,Raritan Bay Medical Center - Perth Amboy Division,"Middlesex County, NJ",221487576,34023
+0.00,0.58,29,0,0.58,29,0,0.58,29,Mercy Health - Saint  Anne Hospital,"Lucas County, OH",311556401,39095
+0.00,0.5,28,0,0.5,28,0,0.5,28,Johns Hopkins All Children's Hospital,"Pinellas County, FL",590683252,12103
+0.00,0.51,28,0,0.51,28,0,0.51,28,Research Medical Center,"Jackson County, MO",542092552,29095
+0.00,0.76,28,0,0.76,28,0,0.76,28,Saint Peter's University Hospital,"Middlesex County, NJ",221487330,34023
+0.00,0.53,28,0,0.53,28,0,0.53,28,Mercy Hospital of Buffalo,"Erie County, NY",160756336,36029
+0.00,0.15,28,0,0.15,28,0,0.15,28,HCA Houston Healthcare West,"Harris County, TX",621801363,48201
+0.00,3.46,27,0,3.46,27,0,3.46,27,SSM Health Saint Mary's Hospital - Madison,"Dane County, WI",430688874,55025
+0.00,2,26,0,2,26,0,2,26,Floyd Medical Center,"Floyd County, GA",581973570,13115
+0.00,1.06,26,0,1.06,26,0,1.06,26,MedStar Franklin Square Medical Center,"Baltimore County, MD",520608007,24005
+0.00,4.63,25,0,4.63,25,0,4.63,25,Natividad Medical Center,"Monterey County, CA",946000524,6053
+0.00,1.56,25,0,1.56,25,0,1.56,25,Trinitas Regional Medical Center,"Union County, NJ",223601678,34039
+0.00,0.5,25,0,0.5,25,0,0.5,25,Saint Luke's Hospital,"Lucas County, OH",344428232,39095
+0.00,0.74,24,0,0.74,24,0,0.74,24,Walnut Creek Medical Center,"Contra Costa County, CA",941105628,6013
+0.00,0.18,24,0,0.18,24,0,0.18,24,Children's Hospital of Orange County,"Orange County, CA",952321786,6059
+0.00,3,24,0,3,24,0,3,24,Citrus Memorial Hospital,"Citrus County, FL",471455535,12017
+0.00,0.98,24,0,0.98,24,0,0.98,24,Greater Baltimore Medical Center,"Baltimore County, MD",526049658,24005
+0.00,0.65,24,0,0.65,24,0,0.65,24,Princeton Medical Center,"Middlesex County, NJ",210635009,34023
+0.00,1.13,24,0,1.13,24,0,1.13,24,Ocean Medical Center,"Ocean County, NJ",221487576,34029
+0.00,0.13,24,0,0.13,24,0,0.13,24,Saint Joseph Medical Center,"Harris County, TX",204835578,48201
+0.00,0.13,24,0,0.13,24,0,0.13,24,Houston Methodist Baytown Hospital,"Harris County, TX",741287015,48201
+0.00,0.17,22,0,0.17,22,0,0.17,22,Saddleback Medical Center,"Orange County, CA",952585792,6059
+0.00,0.51,22,0,0.51,22,0,0.51,22,Einstein Medical Center Montgomery,"Montgomery County, PA",204193243,42091
+0.00,0.76,21,0,0.76,21,0,0.76,21,Community Memorial Hospital,"Ventura County, CA",951683892,6111
+0.00,0.38,21,0,0.38,21,0,0.38,21,Saint Petersburg General Hospital,"Pinellas County, FL",591174716,12103
+0.00,5,21,0,5,21,0,5,21,Cartersville Medical Center,"Bartow County, GA",582433438,13015
+0.00,0.15,20,0,0.15,20,0,0.15,20,West Anaheim Medical Center,"Orange County, CA",205245674,6059
+0.00,0.6,20,0,0.6,20,0,0.6,20,Regional Medical Center Bayonet Point,"Pasco County, FL",621113740,12101
+0.00,0.74,20,0,0.74,20,0,0.74,20,M Health Fairview St. John's Hospital,"Ramsey County, MN",411456897,27123
+0.00,1.61,20,0,1.61,20,0,1.61,20,Catholic Medical Center,"Hillsborough County, NH",20315693,33011
+0.00,0.19,20,0,0.19,20,0,0.19,20,Jeanes Hospital,"Philadelphia County, PA",232826045,42101
+0.00,0.47,20,0,0.47,20,0,0.47,20,Holy Redeemer Hospital and Medical Center,"Montgomery County, PA",231534300,42091
+0.00,0.53,20,0,0.53,20,0,0.53,20,MultiCare Good Samaritan Hospital,"Pierce County, WA",911352172,53053
+0.00,0.28,19,0,0.28,19,0,0.28,19,Saint Mary's Medical Center,"San Francisco County, CA",941196203,6075
+0.00,0.27,18,0,0.27,18,0,0.27,18,Saint Francis Memorial Hospital,"San Francisco County, CA",941156295,6075
+0.00,0.19,18,0,0.19,18,0,0.19,18,Saint Luke's Hospital,"St. Louis County, MO",430652680,29189
+0.00,0.19,18,0,0.19,18,0,0.19,18,Christian Hospital,"St. Louis County, MO",436057893,29189
+0.00,5,18,0,5,18,0,5,18,Firelands Regional Medical Center Main Campus,"Erie County, OH",344428218,39043
+0.00,0.17,18,0,0.17,18,0,0.17,18,Roxborough Memorial Hospital,"Philadelphia County, PA",454246163,42101
+0.00,0.49,16,0,0.49,16,0,0.49,16,Antioch Medical Center,"Contra Costa County, CA",941105628,6013
+0.00,1.23,16,0,1.23,16,0,1.23,16,Redmond Regional Medical Center,"Floyd County, GA",581123037,13115
+0.00,0.53,16,0,0.53,16,0,0.53,16,Metro Health Hospital,"Kent County, MI",380593405,26081
+0.00,0.59,16,0,0.59,16,0,0.59,16,Regions Hospital,"Ramsey County, MN",410956618,27123
+0.00,2.05,16,0,2.05,16,0,2.05,16,Barnes-Jewish Saint Peters Hospital,"St. Charles County, MO",431452426,29183
+0.00,0.43,16,0,0.43,16,0,0.43,16,Robert Wood Johnson University Hospital New Brunswick,"Middlesex County, NJ",221487243,34023
+0.00,0.45,16,0,0.45,16,0,0.45,16,Saint John's Riverside Hospital - Andrus Pavilion,"Westchester County, NY",131740126,36119
+0.00,0.31,16,0,0.31,16,0,0.31,16,Roswell Park Cancer Institute,"Erie County, NY",161552370,36029
+0.00,5,14,0,5,14,0,5,14,Holzer Gallipolis Medical Center,"Gallia County, OH",314379491,39053
+0.00,0.13,14,0,0.13,14,0,0.13,14,Chestnut Hill Hospital,"Philadelphia County, PA",822108660,42101
+0.00,0.13,14,0,0.13,14,0,0.13,14,Nazareth Hospital,"Philadelphia County, PA",232794121,42101
+0.00,0.08,14,0,0.08,14,0,0.08,14, HCA Houston Healthcare Medical Center,"Harris County, TX",821635538,48201
+0.00,0.36,14,0,0.36,14,0,0.36,14,UT Health North Campus Tyler,"Smith County, TX",756001354,48423
+0.00,0.17,13,0,0.17,13,0,0.17,13,Cancer Treatment Centers of America Tulsa,"Tulsa County, OK",363755999,40143
+0.00,0.2,12,0,0.2,12,0,0.2,12,Banner - University Medical Center South Campus,"Pima County, AZ",901074558,4019
+0.00,0.73,12,0,0.73,12,0,0.73,12,Sutter Santa Rosa Regional Hospital,"Sonoma County, CA",940562680,6097
+0.00,1.09,12,0,1.09,12,0,1.09,12,UCHealth Poudre Valley Hospital,"Larimer County, CO",841262971,8069
+0.00,3,12,0,3,12,0,3,12,Saint Luke's Warren Campus,"Warren County, NJ",221494454,34041
+0.00,0.34,12,0,0.34,12,0,0.34,12,Montefiore New Rochelle Hospital,"Westchester County, NY",462931956,36119
+0.00,0.34,12,0,0.34,12,0,0.34,12,Phelps Memorial Hospital Center,"Westchester County, NY",131725076,36119
+0.00,0.24,12,0,0.24,12,0,0.24,12,ProMedica Flower Hospital,"Lucas County, OH",344428794,39095
+0.00,0.28,12,0,0.28,12,0,0.28,12,Suburban Community Hospital,"Montgomery County, PA",472819044,42091
+0.00,1.62,11,0,1.62,11,0,1.62,11,Cape Cod Hospital,"Barnstable County, MA",42103600,25001
+0.00,0.89,11,0,0.89,11,0,0.89,11,Southern New Hampshire Medical Center,"Hillsborough County, NH",20483054,33011
+0.00,5,11,0,5,11,0,5,11,Samaritan Albany General Hospital,"Linn County, OR",930110095,41043
+0.00,0.15,10,0,0.15,10,0,0.15,10,CPMC Mission Bernal Campus,"San Francisco County, CA",940562680,6075
+0.00,0.37,10,0,0.37,10,0,0.37,10,Gillette Children's Specialty Healthcare - Saint Paul Campus,"Ramsey County, MN",363379150,27123
+0.00,0.11,10,0,0.11,10,0,0.11,10,Saint Luke's Des Peres Hospital,"St. Louis County, MO",824314522,29189
+0.00,0.18,10,0,0.18,10,0,0.18,10,Lee's Summit Medical Center,"Jackson County, MO",450503141,29095
+0.00,0.2,10,0,0.2,10,0,0.2,10,Mercy Health - Saint Charles Hospital,"Lucas County, OH",344445373,39095
+0.00,0.12,8,0,0.12,8,0,0.12,8,CPMC Davies Campus,"San Francisco County, CA",940562680,6075
+0.00,0.25,8,0,0.25,8,0,0.25,8,Contra Costa Regional Medical Center,"Contra Costa County, CA",946000509,6013
+0.00,5,8,0,5,8,0,5,8,Saint Joseph Mercy Livingston Hospital,"Livingston County, MI",383176225,26093
+0.00,0.15,8,0,0.15,8,0,0.15,8,Truman Medical Center Lakewood,"Jackson County, MO",440661018,29095
+0.00,0.09,8,0,0.09,8,0,0.09,8,Barnes-Jewish West County Hospital,"St. Louis County, MO",431527130,29189
+0.00,0.15,8,0,0.15,8,0,0.15,8,Saint Mary's Medical Center,"Jackson County, MO",472264005,29095
+0.00,0.08,8,0,0.08,8,0,0.08,8,Fox Chase Cancer Center,"Philadelphia County, PA",231352156,42101
+0.00,0.59,7,0,0.59,7,0,0.59,7,Beth Israel Deaconess Hospital Needham,"Norfolk County, MA",43229679,25021
+0.00,2.14,6,0,2.14,6,0,2.14,6,Sutter Davis Hospital,"Yolo County, CA",941156621,6113
+0.00,0,216,0,0,216,0,0,216,Renown Regional Medical Center,"Washoe County, NV",880213754,32031
+0.00,0,212,0,0,212,0,0,212,Mayo Clinic Hospital - Saint Mary's Campus,"Olmsted County, MN",410944601,27109
+0.00,0,204,0,0,204,0,0,204,Emory University Hospital,"DeKalb County, GA",580566256,13089
+0.00,0,194,0,0,194,0,0,194,Wake Forest Baptist Medical Center,"Forsyth County, NC",560552787,37067
+0.00,0,179,0,0,179,0,0,179,Vidant Medical Center,"Pitt County, NC",560585243,37147
+0.00,0,157,0,0,157,0,0,157,University Hospital,"Richmond County, GA",581581103,13245
+0.00,0,146,0,0,146,0,0,146,Mission Hospital - Memorial Campus,"Buncombe County, NC",832048706,37021
+0.00,0,142,0,0,142,0,0,142,Children's Hospital of Alabama,"Jefferson County, AL",630307306,1073
+0.00,0,138,0,0,138,0,0,138, Baylor Scott & White Medical Center Temple,"Bell County, TX",741166904,48027
+0.00,0,137,0,0,137,0,0,137,Rhode Island Hospital,"Providence County, RI",50258954,44007
+0.00,0,132,0,0,132,0,0,132,Wesley Medical Center,"Sedgwick County, KS",621762545,20173
+0.00,0,128,0,0,128,0,0,128,Novant Health Forsyth Medical Center,"Forsyth County, NC",560928089,37067
+0.00,0,128,0,0,128,0,0,128,Greenville Memorial Hospital,"Greenville County, SC",811723202,45045
+0.00,0,119,0,0,119,0,0,119,Huntsville Hospital,"Madison County, AL",630845288,1089
+0.00,0,118,0,0,118,0,0,118,Children's Healthcare of Atlanta Egleston Hospital,"DeKalb County, GA",580572412,13089
+0.00,0,114,0,0,114,0,0,114,UNC Medical Center,"Orange County, NC",561118388,37135
+0.00,0,107,0,0,107,0,0,107,DHR Health,"Hidalgo County, TX",742802643,48215
+0.00,0,105,0,0,105,0,0,105,Carolinas Medical Center,"Mecklenburg County, NC",561398929,37119
+0.00,0,105,0,0,105,0,0,105,University of Cincinnati Medical Center,"Hamilton County, OH",311479038,39061
+0.00,0,105,0,0,105,0,0,105,Methodist University Hospital,"Shelby County, TN",620479367,47157
+0.00,0,104,0,0,104,0,0,104,University Medical Center,"Lubbock County, TX",751301362,48303
+0.00,0,103,0,0,103,0,0,103,DCH Regional Medical Center,"Tuscaloosa County, AL",636000271,1125
+0.00,0,103,0,0,103,0,0,103,The Nebraska Medical Center,"Douglas County, NE",911858433,31055
+0.00,0,103,0,0,103,0,0,103,Miami Valley Hospital,"Montgomery County, OH",310537504,39113
+0.00,0,101,0,0,101,0,0,101,UCHealth University of Colorado Hospital,"Adams County, CO",841179794,8001
+0.00,0,101,0,0,101,0,0,101,Cincinnati Children's Hospital Medical Center,"Hamilton County, OH",310833936,39061
+0.00,0,100,0,0,100,0,0,100,Ascension Saint Vincent Evansville,"Vanderburgh County, IN",350869065,18163
+0.00,0,99,0,0,99,0,0,99,Sparrow Hospital,"Ingham County, MI",381360584,26065
+0.00,0,95,0,0,95,0,0,95,Charleston Area Medical Center General Hospital,"Kanawha County, WV",550526150,54039
+0.00,0,89,0,0,89,0,0,89,Good Samaritan Hospital,"Hamilton County, OH",310537486,39061
+0.00,0,88,0,0,88,0,0,88,CHI Health Creighton University Medical Center - Bergan Mercy,"Douglas County, NE",470484764,31055
+0.00,0,86,0,0,86,0,0,86,Lehigh Valley Hospital - Cedar Crest,"Lehigh County, PA",231689692,42077
+0.00,0,85,0,0,85,0,0,85,Albany Medical Center,"Albany County, NY",141338307,36001
+0.00,0,84,0,0,84,0,0,84,Grandview Medical Center,"Jefferson County, AL",203391873,1073
+0.00,0,83,0,0,83,0,0,83,Saint Vincent's Birmingham,"Jefferson County, AL",630288864,1073
+0.00,0,81,0,0,81,0,0,81,Edinburg Regional Medical Center,"Hidalgo County, TX",233069260,48215
+0.00,0,80,0,0,80,0,0,80,Upstate University Hospital,"Onondaga County, NY",161469571,36067
+0.00,0,78,0,0,78,0,0,78,Community Regional Medical Center,"Fresno County, CA",941156276,6019
+0.00,0,77,0,0,77,0,0,77,Tampa General Hospital,"Hillsborough County, FL",593458145,12057
+0.00,0,77,0,0,77,0,0,77,Medical Center Navicent Health,"Bibb County, GA",582149128,13021
+0.00,0,77,0,0,77,0,0,77,The Moses H. Cone Memorial Hospital,"Guilford County, NC",581588823,37081
+0.00,0,76,0,0,76,0,0,76,CHRISTUS Spohn Hospital Corpus Christi -Shoreline,"Nueces County, TX",741109836,48355
+0.00,0,74,0,0,74,0,0,74,Methodist Hospitals - Northlake Campus,"Lake County, IN",350868133,18089
+0.00,0,73,0,0,73,0,0,73,Christiana Hospital,"New Castle County, DE",510103684,10003
+0.00,0,73,0,0,73,0,0,73,Methodist Hospital,"Douglas County, NE",470376604,31055
+0.00,0,73,0,0,73,0,0,73,Jackson-Madison County General Hospital,"Madison County, TN",626010402,47113
+0.00,0,72,0,0,72,0,0,72,Utah Valley Hospital,"Utah County, UT",942854057,49049
+0.00,0,72,0,0,72,0,0,72,Primary Children's Hospital,"Salt Lake County, UT",942854057,49035
+0.00,0,71,0,0,71,0,0,71,Baptist Memorial Hospital Memphis,"Shelby County, TN",620123940,47157
+0.00,0,70,0,0,70,0,0,70,Pikeville Medical Center,"Pike County, KY",610458376,21195
+0.00,0,69,0,0,69,0,0,69,Stormont Vail Hospital,"Shawnee County, KS",480543789,20177
+0.00,0,68,0,0,68,0,0,68,St. Mary's Hospital,"Clarke County, GA",580566223,13059
+0.00,0,68,0,0,68,0,0,68,Geisinger Medical Center,"Montour County, PA",240795959,42093
+0.00,0,68,0,0,68,0,0,68,Saint Thomas Rutherford Hospital,"Rutherford County, TN",620475842,47149
+0.00,0,67,0,0,67,0,0,67,OSF Saint Francis Medical Center,"Peoria County, IL",370662569,17143
+0.00,0,67,0,0,67,0,0,67,Deaconess Midtown Hospital,"Vanderburgh County, IN",350593390,18163
+0.00,0,67,0,0,67,0,0,67,Northern Light Eastern Maine Medical Center,"Penobscot County, ME",10211501,23019
+0.00,0,67,0,0,67,0,0,67,Sanford Medical Center Fargo,"Cass County, ND",450226909,38017
+0.00,0,66,0,0,66,0,0,66,UF Health Shands Florida,"Alachua County, FL",591943502,12001
+0.00,0,66,0,0,66,0,0,66,Ocala Regional Medical Center,"Marion County, FL",591479652,12083
+0.00,0,65,0,0,65,0,0,65,Ruby Memorial Hospital,"Monongalia County, WV",550643304,54061
+0.00,0,64,0,0,64,0,0,64,Summa Health System - Akron Campus,"Summit County, OH",340714755,39153
+0.00,0,64,0,0,64,0,0,64,Las Palmas Medical Center,"El Paso County, TX",742499952,48141
+0.00,0,64,0,0,64,0,0,64, HCA Houston Healthcare Kingwood,"Montgomery County, TX",621619857,48339
+0.00,0,63,0,0,63,0,0,63,Spartanburg Medical Center,"Spartanburg County, SC",576000934,45083
+0.00,0,63,0,0,63,0,0,63,University of Utah Hospital,"Salt Lake County, UT",876000525,49035
+0.00,0,62,0,0,62,0,0,62,Abbott Northwestern Hospital,"Hennepin County, MN",363261413,27053
+0.00,0,61,0,0,61,0,0,61,Essentia Health Saint Mary's Medical Center,"St. Louis County, MN",410695604,27137
+0.00,0,60,0,0,60,0,0,60,Washington Regional Medical Center,"Washington County, AR",710664687,5143
+0.00,0,60,0,0,60,0,0,60,Mississippi Baptist Medical Center,"Hinds County, MS",640881013,28049
+0.00,0,60,0,0,60,0,0,60,AtlantiCare Regional Medical Center -Atlantic City Campus,"Atlantic County, NJ",210634549,34001
+0.00,0,60,0,0,60,0,0,60,WellSpan York Hospital,"York County, PA",231352222,42133
+0.00,0,59,0,0,59,0,0,59,Children's Hospital & Medical Center,"Douglas County, NE",470379754,31055
+0.00,0,58,0,0,58,0,0,58,Swedish Medical Center,"Arapahoe County, CO",841321373,8005
+0.00,0,58,0,0,58,0,0,58,Sky Ridge Medical Center,"Douglas County, CO",841321373,8035
+0.00,0,58,0,0,58,0,0,58,The Queen's Medical Center,"Honolulu County, HI",990073524,15003
+0.00,0,58,0,0,58,0,0,58,Staten Island University Hospital,"Richmond County, NY",112868878,36085
+0.00,0,56,0,0,56,0,0,56,Johnson City Medical Center,"Washington County, TN",620476282,47179
+0.00,0,55,0,0,55,0,0,55,Kootenai Health,"Kootenai County, ID",820231746,16055
+0.00,0,55,0,0,55,0,0,55,Bronson Methodist Hospital,"Kalamazoo County, MI",381359087,26077
+0.00,0,54,0,0,54,0,0,54,Brandon Regional Hospital,"Hillsborough County, FL",610947837,12057
+0.00,0,54,0,0,54,0,0,54,Montefiore Hospital- Moses Campus,"Bronx County, NY",131740114,36005
+0.00,0,54,0,0,54,0,0,54,The Jewish Hospital - Mercy Health,"Hamilton County, OH",271408630,39061
+0.00,0,53,0,0,53,0,0,53,North Memorial Health Hospital,"Hennepin County, MN",410729979,27053
+0.00,0,52,0,0,52,0,0,52,Osceola Regional Medical Center,"Osceola County, FL",611257509,12097
+0.00,0,52,0,0,52,0,0,52,Texoma Medical Center,"Grayson County, TX",205908627,48181
+0.00,0,51,0,0,51,0,0,51,Northwest Texas Healthcare System,"Potter County, TX",232238976,48375
+0.00,0,50,0,0,50,0,0,50,University Medical Center of El Paso,"El Paso County, TX",746000756,48141
+0.00,0,50,0,0,50,0,0,50,McKay-Dee Hospital,"Weber County, UT",942854057,49057
+0.00,0,49,0,0,49,0,0,49,MVHS - St. Elizabeth Campus,"Oneida County, NY",150532245,36065
+0.00,0,48,0,0,48,0,0,48,Dartmouth-Hitchcock Medical Center,"Grafton County, NH",20222140,33009
+0.00,0,48,0,0,48,0,0,48,UNM Hospital,"Bernalillo County, NM",856003005,35001
+0.00,0,48,0,0,48,0,0,48,Cape Fear Valley Medical Center,"Cumberland County, NC",560845796,37051
+0.00,0,48,0,0,48,0,0,48,Duke University Hospital,"Durham County, NC",562070036,37063
+0.00,0,48,0,0,48,0,0,48,Lancaster General Hospital,"Lancaster County, PA",231365353,42071
+0.00,0,48,0,0,48,0,0,48,Covenant Medical Center,"Lubbock County, TX",752765566,48303
+0.00,0,47,0,0,47,0,0,47,Presbyterian Hospital,"Bernalillo County, NM",850105601,35001
+0.00,0,46,0,0,46,0,0,46,St. Luke's Boise Medical Center,"Ada County, ID",820161600,16001
+0.00,0,46,0,0,46,0,0,46,Memorial Hospital,"St. Joseph County, IN",350868132,18141
+0.00,0,46,0,0,46,0,0,46,Saint Elizabeth Edgewood,"Kenton County, KY",610445850,21117
+0.00,0,46,0,0,46,0,0,46,Hurley Medical Center,"Genesee County, MI",386005601,26049
+0.00,0,46,0,0,46,0,0,46,Prisma Health Richland Hospital,"Richland County, SC",582296052,45079
+0.00,0,45,0,0,45,0,0,45,The Medical Center of Aurora,"Arapahoe County, CO",841321373,8005
+0.00,0,45,0,0,45,0,0,45,Ascension Genesys Hospital,"Genesee County, MI",382377821,26049
+0.00,0,45,0,0,45,0,0,45,Saint Vincent Healthcare,"Yellowstone County, MT",810232124,30111
+0.00,0,44,0,0,44,0,0,44,Augusta University Medical Center,"Richmond County, GA",582144788,13245
+0.00,0,44,0,0,44,0,0,44,Mercy Health Hackley Campus,"Muskegon County, MI",382589966,26121
+0.00,0,44,0,0,44,0,0,44,Billings Clinic Hospital,"Yellowstone County, MT",810231784,30111
+0.00,0,44,0,0,44,0,0,44,Baylor Scott & White Medical Center Round Rock,"Williamson County, TX",203749695,48491
+0.00,0,43,0,0,43,0,0,43,Kaiser Permanente Moanalua Medical Center & Clinic,"Honolulu County, HI",941105628,15003
+0.00,0,43,0,0,43,0,0,43,ProHealth Waukesha Memorial Hospital,"Waukesha County, WI",390910727,55133
+0.00,0,42,0,0,42,0,0,42,Yuma Regional Medical Center,"Yuma County, AZ",866007596,4027
+0.00,0,42,0,0,42,0,0,42,Valley Children's Healthcare,"Madera County, CA",941294954,6039
+0.00,0,42,0,0,42,0,0,42,Saint Alphonsus Regional Medical Center,"Ada County, ID",820200895,16001
+0.00,0,42,0,0,42,0,0,42,Saint Cloud Hospital,"Stearns County, MN",410695596,27145
+0.00,0,42,0,0,42,0,0,42,Children's Hospitals and Clinics of Minnesota - Minneapolis,"Hennepin County, MN",411754276,27053
+0.00,0,42,0,0,42,0,0,42,Bristol Regional Medical Center,"Sullivan County, TN",621636465,47163
+0.00,0,42,0,0,42,0,0,42, CHRISTUS Good Shepherd Medical Center - Marshall,"Harrison County, TX",750974351,48203
+0.00,0,42,0,0,42,0,0,42,Intermountain Medical Center,"Salt Lake County, UT",942854057,49035
+0.00,0,42,0,0,42,0,0,42,Providence Saint Peter Hospital,"Thurston County, WA",910567732,53067
+0.00,0,42,0,0,42,0,0,42,Ascension Northeast  Wisconsin Saint Elizabeth Campus,"Outagamie County, WI",390816818,55087
+0.00,0,42,0,0,42,0,0,42,Gundersen Lutheran Medical Center,"La Crosse County, WI",390813416,55063
+0.00,0,41,0,0,41,0,0,41,Kaweah Delta Health Care District,"Tulare County, CA",941534475,6107
+0.00,0,40,0,0,40,0,0,40,Southeast Health Medical Center,"Houston County, AL",636004476,1069
+0.00,0,40,0,0,40,0,0,40,Vallejo Hospital & Medical Offices,"Solano County, CA",941105628,6095
+0.00,0,40,0,0,40,0,0,40,Ascension Via Christi St. Francis,"Sedgwick County, KS",481172106,20173
+0.00,0,40,0,0,40,0,0,40,University of Mississippi Medical Center,"Hinds County, MS",646008520,28049
+0.00,0,40,0,0,40,0,0,40,Forrest General Hospital,"Forrest County, MS",646001587,28035
+0.00,0,40,0,0,40,0,0,40,Orange Regional Medical Center,"Orange County, NY",141364536,36071
+0.00,0,40,0,0,40,0,0,40,Valley Baptist Medical Center - Harlingen,"Cameron County, TX",452662980,48061
+0.00,0,39,0,0,39,0,0,39,Arkansas Children's Hospital,"Pulaski County, AR",710236857,5119
+0.00,0,39,0,0,39,0,0,39,Freeman West,"Newton County, MO",431704371,29145
+0.00,0,39,0,0,39,0,0,39,NYC Health + Hospitals Kings County,"Kings County, NY",132655001,36047
+0.00,0,39,0,0,39,0,0,39,CHI Saint Alexius Health Bismarck,"Burleigh County, ND",450226711,38015
+0.00,0,38,0,0,38,0,0,38,OSF Saint Anthony Medical Center,"Winnebago County, IL",362167864,17201
+0.00,0,38,0,0,38,0,0,38,Lake Cumberland Regional Hospital,"Pulaski County, KY",621757920,21199
+0.00,0,38,0,0,38,0,0,38,Virtua Memorial Hospital,"Burlington County, NJ",210634562,34005
+0.00,0,38,0,0,38,0,0,38,NYC Health + Hospitals Lincoln,"Bronx County, NY",132655001,36005
+0.00,0,38,0,0,38,0,0,38,NewYork-Presbyterian Brooklyn Methodist Hospital,"Kings County, NY",111631796,36047
+0.00,0,38,0,0,38,0,0,38,Bethesda North Hospital,"Hamilton County, OH",310537122,39061
+0.00,0,38,0,0,38,0,0,38, UPMC Hamot,"Erie County, PA",250965387,42049
+0.00,0,38,0,0,38,0,0,38,Guthrie Robert Packer Hospital,"Bradford County, PA",240795463,42015
+0.00,0,38,0,0,38,0,0,38,Mercy Catholic Medical Center - Mercy Fitzgerald Campus,"Delaware County, PA",231352191,42045
+0.00,0,38,0,0,38,0,0,38,Self Regional Healthcare,"Greenwood County, SC",570331865,45047
+0.00,0,38,0,0,38,0,0,38,HCA Houston Healthcare Conroe,"Montgomery County, TX",621801361,48339
+0.00,0,37,0,0,37,0,0,37,UAB Hospital,"Jefferson County, AL",636005396,1073
+0.00,0,37,0,0,37,0,0,37,UHS Binghamton General Hospital,"Broome County, NY",161165049,36007
+0.00,0,37,0,0,37,0,0,37,Kettering Medical Center,"Montgomery County, OH",310621866,39113
+0.00,0,36,0,0,36,0,0,36,Baptist Health Medical Center - Little Rock,"Pulaski County, AR",710236856,5119
+0.00,0,36,0,0,36,0,0,36,NEA Baptist Memorial Hospital,"Craighead County, AR",261214372,5031
+0.00,0,36,0,0,36,0,0,36,Children's Hospital Colorado,"Adams County, CO",840166760,8001
+0.00,0,36,0,0,36,0,0,36,Portneuf Medical Center,"Bannock County, ID",263757128,16005
+0.00,0,36,0,0,36,0,0,36,Union Hospital,"Vigo County, IN",350876396,18167
+0.00,0,36,0,0,36,0,0,36,Iowa Methodist Medical Center,"Polk County, IA",420680452,19153
+0.00,0,36,0,0,36,0,0,36,Covenant Medical Center Harrison,"Saginaw County, MI",383369438,26145
+0.00,0,36,0,0,36,0,0,36,Bryan Medical Center - East Campus,"Lancaster County, NE",470376552,31109
+0.00,0,36,0,0,36,0,0,36,Ellis Hospital,"Schenectady County, NY",141338428,36093
+0.00,0,36,0,0,36,0,0,36,The Miriam Hospital,"Providence County, RI",50258905,44007
+0.00,0,36,0,0,36,0,0,36,Holston Valley Medical Center,"Sullivan County, TN",621636465,47163
+0.00,0,35,0,0,35,0,0,35,Eastern Idaho Regional Medical Center,"Bonneville County, ID",820436622,16019
+0.00,0,35,0,0,35,0,0,35,Rush-Copley Medical Center,"Kane County, IL",362170840,17089
+0.00,0,35,0,0,35,0,0,35,UnityPoint Health St. Luke's Regional Medical Center,"Woodbury County, IA",421019872,19193
+0.00,0,35,0,0,35,0,0,35,Mercy Hospital,"Anoka County, MN",363261413,27003
+0.00,0,35,0,0,35,0,0,35,Grandview Medical Center,"Montgomery County, OH",310564121,39113
+0.00,0,35,0,0,35,0,0,35,Aiken Regional Medical Centers,"Aiken County, SC",232791808,45003
+0.00,0,35,0,0,35,0,0,35,MultiCare Deaconess Hospital,"Spokane County, WA",911352172,53063
+0.00,0,34,0,0,34,0,0,34,Jefferson Regional Medical Center,"Jefferson County, AR",710329353,5069
+0.00,0,34,0,0,34,0,0,34,NCH Baker Hospital Downtown,"Collier County, FL",590694358,12021
+0.00,0,34,0,0,34,0,0,34,Ascension Sacred Heart Hospital Pensacola,"Escambia County, FL",590634434,12033
+0.00,0,34,0,0,34,0,0,34,Piedmont Columbus Regional - Midtown Campus,"Muscogee County, GA",581685139,13215
+0.00,0,34,0,0,34,0,0,34,Henry Ford Allegiance Health Hospital,"Jackson County, MI",382027689,26075
+0.00,0,34,0,0,34,0,0,34,Bassett Medical Center,"Otsego County, NY",135596796,36077
+0.00,0,34,0,0,34,0,0,34,Cleveland Clinic Akron General,"Summit County, OH",340714478,39153
+0.00,0,34,0,0,34,0,0,34,Dayton Children's Hospital,"Montgomery County, OH",310672132,39113
+0.00,0,33,0,0,33,0,0,33,UPMC Altoona,"Blair County, PA",231352155,42013
+0.00,0,33,0,0,33,0,0,33, CHRISTUS Good Shepherd Medical Center Longview,"Gregg County, TX",751041154,48183
+0.00,0,33,0,0,33,0,0,33,Corpus Christi Medical Center - Doctors Regional,"Nueces County, TX",752387418,48355
+0.00,0,32,0,0,32,0,0,32,Houston Medical Center,"Houston County, GA",711045290,13153
+0.00,0,32,0,0,32,0,0,32,Emory Decatur Hospital,"DeKalb County, GA",581966795,13089
+0.00,0,32,0,0,32,0,0,32,MercyOne Des Moines,"Polk County, IA",420680448,19153
+0.00,0,32,0,0,32,0,0,32,Salina Regional Health Center,"Saline County, KS",481169103,20169
+0.00,0,32,0,0,32,0,0,32,Hazard ARH Regional Medical Center,"Perry County, KY",520795508,21193
+0.00,0,32,0,0,32,0,0,32,Maine Medical Center,"Cumberland County, ME",10238552,23005
+0.00,0,32,0,0,32,0,0,32,Baystate Medical Center,"Hampden County, MA",42790311,25013
+0.00,0,32,0,0,32,0,0,32,McLaren Bay Region,"Bay County, MI",381976271,26017
+0.00,0,32,0,0,32,0,0,32,Capital Health Regional Medical Center,"Mercer County, NJ",223548695,34021
+0.00,0,32,0,0,32,0,0,32,NYC Health + Hospitals Jacobi,"Bronx County, NY",132655001,36005
+0.00,0,32,0,0,32,0,0,32,Laredo Medical Center,"Webb County, TX",200175530,48479
+0.00,0,32,0,0,32,0,0,32,CHRISTUS Saint Michael Health System,"Bowie County, TX",752796815,48037
+0.00,0,32,0,0,32,0,0,32,Virginia Hospital Center,"Arlington County, VA",540505989,51013
+0.00,0,31,0,0,31,0,0,31,Baptist Health-Fort Smith,"Sebastian County, AR",825426152,5131
+0.00,0,31,0,0,31,0,0,31,Central Maine Medical Center,"Androscoggin County, ME",10211494,23001
+0.00,0,31,0,0,31,0,0,31,"BronxCare Dr. Martin Luther King, Jr. Health Center","Bronx County, NY",131974191,36005
+0.00,0,30,0,0,30,0,0,30,Saint Vincent's East,"Jefferson County, AL",630578923,1073
+0.00,0,30,0,0,30,0,0,30,South Baldwin Regional Medical Center,"Baldwin County, AL",621811413,1003
+0.00,0,30,0,0,30,0,0,30,St. Bernards Medical Center,"Craighead County, AR",710290019,5031
+0.00,0,30,0,0,30,0,0,30,Tallahassee Memorial Healthcare,"Leon County, FL",591917016,12073
+0.00,0,30,0,0,30,0,0,30,Moffitt Cancer Center,"Hillsborough County, FL",593238634,12057
+0.00,0,30,0,0,30,0,0,30,Northwestern Medicine McHenry Hospital,"McHenry County, IL",362338884,17111
+0.00,0,30,0,0,30,0,0,30,SwedishAmerican Hospital,"Winnebago County, IL",362222696,17201
+0.00,0,30,0,0,30,0,0,30,Reid Hospital,"Wayne County, IN",350892672,18177
+0.00,0,30,0,0,30,0,0,30,Trumbull Regional Medical Center,"Trumbull County, OH",815457243,39155
+0.00,0,30,0,0,30,0,0,30,Saint Charles Bend Medical Center,"Deschutes County, OR",930602940,41017
+0.00,0,30,0,0,30,0,0,30,Penn State Health Saint Joseph - Main Campus,"Berks County, PA",231352211,42011
+0.00,0,30,0,0,30,0,0,30,Ascension Providence,"McLennan County, TX",741109636,48309
+0.00,0,29,0,0,29,0,0,29," Genesis Medical Center, East Rusholme Street","Scott County, IA",421418847,19163
+0.00,0,29,0,0,29,0,0,29,Holy Family Hospital - Methuen,"Essex County, MA",272473701,25009
+0.00,0,29,0,0,29,0,0,29,Mayo Clinic Health System in Mankato,"Blue Earth County, MN",411236756,27013
+0.00,0,29,0,0,29,0,0,29,NewYork-Presbyterian  Queens Hospital,"Queens County, NY",111839362,36081
+0.00,0,29,0,0,29,0,0,29,Crouse Hospital,"Onondaga County, NY",160960470,36067
+0.00,0,29,0,0,29,0,0,29,The Brookdale University Hospital and Medical Center,"Kings County, NY",111631746,36047
+0.00,0,29,0,0,29,0,0,29,New Hanover Regional Medical Center,"New Hanover County, NC",560887181,37129
+0.00,0,29,0,0,29,0,0,29,Saint Luke's University Hospital - Bethlehem,"Lehigh County, PA",231352213,42077
+0.00,0,29,0,0,29,0,0,29,Avera McKennan Hospital & University Health Center,"Minnehaha County, SD",460224743,46099
+0.00,0,28,0,0,28,0,0,28,University of Arkansas for Medical Sciences (UAMS) Medical Center,"Pulaski County, AR",716046242,5119
+0.00,0,28,0,0,28,0,0,28,Marian Regional Medical Center,"Santa Barbara County, CA",941196203,6083
+0.00,0,28,0,0,28,0,0,28,Coliseum Medical Center,"Bibb County, GA",621736983,13021
+0.00,0,28,0,0,28,0,0,28,Saint Joseph Health Mishawaka Medical Center,"St. Joseph County, IN",350868157,18141
+0.00,0,28,0,0,28,0,0,28,Rush Foundation Hospital,"Lauderdale County, MS",640345119,28075
+0.00,0,28,0,0,28,0,0,28,Memorial Medical Center,"Dona Ana County, NM",270085482,35013
+0.00,0,28,0,0,28,0,0,28,UPMC Susquehanna Williamsport Regional Medical Center,"Lycoming County, PA",240795508,42081
+0.00,0,28,0,0,28,0,0,28,LDS Hospital,"Salt Lake County, UT",942854057,49035
+0.00,0,28,0,0,28,0,0,28,Mayo Clinic Health System - Franciscan Healthcare in La Crosse,"La Crosse County, WI",390806374,55063
+0.00,0,28,0,0,28,0,0,28,Aspirus Wausau Hospital,"Marathon County, WI",391138241,55073
+0.00,0,27,0,0,27,0,0,27,Methodist Health Henderson County Campus,"Henderson County, KY",610461753,21101
+0.00,0,27,0,0,27,0,0,27,Kalispell Regional Medical Center,"Flathead County, MT",237293874,30029
+0.00,0,27,0,0,27,0,0,27,Sanford USD Medical Center Sioux Falls,"Minnehaha County, SD",460227855,46099
+0.00,0,26,0,0,26,0,0,26,Mobile Infirmary Medical Center,"Mobile County, AL",630288856,1097
+0.00,0,26,0,0,26,0,0,26,University of Iowa Hospitals & Clinics,"Johnson County, IA",426004813,19103
+0.00,0,26,0,0,26,0,0,26,UPHS  -  Marquette,"Marquette County, MI",800818718,26103
+0.00,0,26,0,0,26,0,0,26,MidMichigan Medical Center - Midland,"Midland County, MI",380833014,26111
+0.00,0,26,0,0,26,0,0,26,Saint Barnabas Hospital,"Bronx County, NY",131740122,36005
+0.00,0,26,0,0,26,0,0,26,Wadley Regional Medical Center,"Bowie County, TX",264178850,48037
+0.00,0,26,0,0,26,0,0,26,Mayo Clinic Health System in Eau Claire,"Eau Claire County, WI",390813418,55035
+0.00,0,25,0,0,25,0,0,25,Blessing Hospital,"Adams County, IL",370661183,17001
+0.00,0,25,0,0,25,0,0,25,Carle Foundation Hospital,"Champaign County, IL",371119538,17019
+0.00,0,25,0,0,25,0,0,25,Mercy Health Mercy Campus,"Muskegon County, MI",382589966,26121
+0.00,0,25,0,0,25,0,0,25,Saint Luke's Hospital,"St. Louis County, MN",410714079,27137
+0.00,0,25,0,0,25,0,0,25,Southeastern Regional Medical Center,"Robeson County, NC",560530233,37155
+0.00,0,25,0,0,25,0,0,25,Crozer-Chester Medical Center,"Delaware County, PA",811507712,42045
+0.00,0,25,0,0,25,0,0,25,AnMed Health Medical Center,"Anderson County, SC",570359174,45007
+0.00,0,24,0,0,24,0,0,24,Mercy Hospital Northwest Arkansas,"Benton County, AR",710294390,5007
+0.00,0,24,0,0,24,0,0,24,Middlesex Hospital,"Middlesex County, CT",60646718,9007
+0.00,0,24,0,0,24,0,0,24,Oak Hill Hospital,"Hernando County, FL",621113740,12053
+0.00,0,24,0,0,24,0,0,24,Piedmont Athens Regional Medical Center,"Clarke County, GA",582179986,13059
+0.00,0,24,0,0,24,0,0,24,Hennepin Healthcare,"Hennepin County, MN",421707837,27053
+0.00,0,24,0,0,24,0,0,24,North Mississippi Medical Center - Tupelo,"Lee County, MS",640662976,28081
+0.00,0,24,0,0,24,0,0,24,Magnolia Regional Health Center,"Alcorn County, MS",640428003,28003
+0.00,0,24,0,0,24,0,0,24,Providence Saint Patrick Hospital,"Missoula County, MT",810231793,30063
+0.00,0,24,0,0,24,0,0,24,CHI Health Immanuel,"Douglas County, NE",470376615,31055
+0.00,0,24,0,0,24,0,0,24,Deborah Heart and Lung Center,"Burlington County, NJ",231550955,34005
+0.00,0,24,0,0,24,0,0,24,Saint Joseph's Hospital Health Center,"Onondaga County, NY",150532254,36067
+0.00,0,24,0,0,24,0,0,24,University Hospital of Brooklyn,"Kings County, NY",146013200,36047
+0.00,0,24,0,0,24,0,0,24,NYC Health + Hospitals Woodhull,"Kings County, NY",132655001,36047
+0.00,0,24,0,0,24,0,0,24,Phoenixville Hospital,"Chester County, PA",822062413,42029
+0.00,0,23,0,0,23,0,0,23,Vaughan Regional Medical Center,"Dallas County, AL",621864231,1047
+0.00,0,23,0,0,23,0,0,23,CHI St. Vincent Infirmary,"Pulaski County, AR",710236917,5119
+0.00,0,23,0,0,23,0,0,23,Lawrence & Memorial Hospital,"New London County, CT",60646704,9011
+0.00,0,23,0,0,23,0,0,23, University of Kansas Health System Saint Francis Campus,"Shawnee County, KS",822034009,20177
+0.00,0,23,0,0,23,0,0,23,MountainView Regional Medical Center,"Dona Ana County, NM",752905434,35013
+0.00,0,23,0,0,23,0,0,23,Akron Children's Hospital,"Summit County, OH",340714357,39153
+0.00,0,23,0,0,23,0,0,23,Inova Loudoun Hospital,"Loudoun County, VA",540525802,51107
+0.00,0,23,0,0,23,0,0,23,Ascension All Saints Hospital - Spring Street Campus,"Racine County, WI",391264986,55101
+0.00,0,22,0,0,22,0,0,22,Adventist Health Hanford,"Kings County, CA",940535360,6031
+0.00,0,22,0,0,22,0,0,22,Doctors Medical Center of Modesto,"Stanislaus County, CA",752918774,6099
+0.00,0,22,0,0,22,0,0,22,Parkview Medical Center,"Pueblo County, CO",840935136,8101
+0.00,0,22,0,0,22,0,0,22,Decatur Memorial Hospital,"Macon County, IL",370661199,17115
+0.00,0,22,0,0,22,0,0,22,Javon Bea Hospital Rockton,"Winnebago County, IL",362167847,17201
+0.00,0,22,0,0,22,0,0,22,Clark Memorial Hospital,"Clark County, IN",474000401,18019
+0.00,0,22,0,0,22,0,0,22,Franciscan Health Crown Point,"Lake County, IN",352074283,18089
+0.00,0,22,0,0,22,0,0,22,Methodist Hospital,"Hennepin County, MN",410132080,27053
+0.00,0,22,0,0,22,0,0,22,NYC Health + Hospitals Coney Island,"Kings County, NY",132655001,36047
+0.00,0,22,0,0,22,0,0,22,Duke Regional Hospital,"Durham County, NC",562070036,37063
+0.00,0,22,0,0,22,0,0,22,Lower Bucks Hospital,"Bucks County, PA",460750728,42017
+0.00,0,22,0,0,22,0,0,22,Wheeling Hospital,"Ohio County, WV",550357057,54069
+0.00,0,22,0,0,22,0,0,22,ThedaCare Regional Medical Center-Appleton,"Outagamie County, WI",390824015,55087
+0.00,0,21,0,0,21,0,0,21,Northwest Medical Center - Springdale,"Washington County, AR",205896848,5143
+0.00,0,21,0,0,21,0,0,21,Memorial Hospital of Carbondale,"Jackson County, IL",370618939,17077
+0.00,0,21,0,0,21,0,0,21,Mayo Clinic Hospital - Methodist Campus,"Olmsted County, MN",410739106,27109
+0.00,0,21,0,0,21,0,0,21,M Health Fairview University of Minnesota Medical Center,"Hennepin County, MN",410991680,27053
+0.00,0,21,0,0,21,0,0,21,The University of Vermont Health Network Champlain Valley Physicians Hospital,"Clinton County, NY",141338471,36019
+0.00,0,21,0,0,21,0,0,21,The Christ Hospital,"Hamilton County, OH",310538525,39061
+0.00,0,21,0,0,21,0,0,21,Geisinger Holy Spirit,"Cumberland County, PA",231512747,42041
+0.00,0,21,0,0,21,0,0,21,DeTar Hospital Navarro,"Victoria County, TX",621754940,48469
+0.00,0,20,0,0,20,0,0,20,Kingman Regional Medical Center,"Mohave County, AZ",942916102,4015
+0.00,0,20,0,0,20,0,0,20,Santa Barbara Cottage Hospital,"Santa Barbara County, CA",951644629,6083
+0.00,0,20,0,0,20,0,0,20,Mercy Medical Center,"Merced County, CA",941196203,6047
+0.00,0,20,0,0,20,0,0,20,Saint Francis Healthcare,"New Castle County, DE",510064326,10003
+0.00,0,20,0,0,20,0,0,20,Memorial University Medical Center,"Chatham County, GA",821969974,13051
+0.00,0,20,0,0,20,0,0,20,Franciscan Health  Hammond,"Lake County, IN",351835133,18089
+0.00,0,20,0,0,20,0,0,20,Mercy Medical Center,"Linn County, IA",420698295,19113
+0.00,0,20,0,0,20,0,0,20,Anne Arundel Medical Center,"Anne Arundel County, MD",521169362,24003
+0.00,0,20,0,0,20,0,0,20,NSMC Union Hospital,"Essex County, MA",43399616,25009
+0.00,0,20,0,0,20,0,0,20,"Lakeland Medical Center, Saint Joseph","Berrien County, MI",382156872,26021
+0.00,0,20,0,0,20,0,0,20,Munson Medical Center,"Grand Traverse County, MI",381362830,26055
+0.00,0,20,0,0,20,0,0,20,Virtua Willingboro Hospital,"Burlington County, NJ",223612265,34005
+0.00,0,20,0,0,20,0,0,20,HealthAlliance - Broadway Campus,"Ulster County, NY",141349558,36111
+0.00,0,20,0,0,20,0,0,20,Arnot Ogden Medical Center,"Chemung County, NY",160743905,36015
+0.00,0,20,0,0,20,0,0,20,NYC Health + Hospitals Elmhurst,"Queens County, NY",132655001,36081
+0.00,0,20,0,0,20,0,0,20,Upstate University Hospital - Community Campus,"Onondaga County, NY",150622506,36067
+0.00,0,20,0,0,20,0,0,20,NYC Health + Hospitals North Central Bronx,"Bronx County, NY",132655001,36005
+0.00,0,20,0,0,20,0,0,20,Mercy Health - Saint Elizabeth Youngstown Hospital,"Mahoning County, OH",340505560,39099
+0.00,0,20,0,0,20,0,0,20,Fairfield Medical Center,"Fairfield County, OH",310645626,39045
+0.00,0,20,0,0,20,0,0,20,Comanche County Memorial Hospital,"Comanche County, OK",736061037,40031
+0.00,0,20,0,0,20,0,0,20,Saint Vincent Hospital,"Erie County, PA",250965547,42049
+0.00,0,20,0,0,20,0,0,20,Heritage Valley Beaver,"Beaver County, PA",251801532,42007
+0.00,0,20,0,0,20,0,0,20, Reading Hospital,"Berks County, PA",231352204,42011
+0.00,0,20,0,0,20,0,0,20,UPMC Pinnacle Harrisburg,"Dauphin County, PA",251778644,42043
+0.00,0,20,0,0,20,0,0,20,University of Tennessee Medical Center,"Knox County, TN",311626179,47093
+0.00,0,20,0,0,20,0,0,20,The Hospitals of Providence Memorial Campus,"El Paso County, TX",954537720,48141
+0.00,0,20,0,0,20,0,0,20,CHI St. Joseph Health Regional Hospital,"Brazos County, TX",741282696,48041
+0.00,0,20,0,0,20,0,0,20,Medical Center Hospital,"Ector County, TX",752302928,48135
+0.00,0,20,0,0,20,0,0,20,Medical City Weatherford,"Parker County, TX",822073410,48367
+0.00,0,20,0,0,20,0,0,20,Driscoll Children's Hospital,"Nueces County, TX",742577746,48355
+0.00,0,20,0,0,20,0,0,20,Salt Lake Regional Medical Center,"Salt Lake County, UT",621795214,49035
+0.00,0,20,0,0,20,0,0,20,Providence Sacred Heart Medical Center and Children's Hospital,"Spokane County, WA",364640211,53063
+0.00,0,20,0,0,20,0,0,20,United Hospital Center,"Harrison County, WV",550525724,54033
+0.00,0,20,0,0,20,0,0,20,Berkeley Medical Center,"Berkeley County, WV",550383321,54003
+0.00,0,20,0,0,20,0,0,20,Cabell Huntington Hospital,"Cabell County, WV",550675666,54011
+0.00,0,20,0,0,20,0,0,20,Ascension Saint Mary's Hospital,"Oneida County, WI",391390638,55085
+0.00,0,19,0,0,19,0,0,19,Fawcett Memorial Hospital,"Charlotte County, FL",650252846,12015
+0.00,0,19,0,0,19,0,0,19,UnityPoint Health - Allen Hospital,"Black Hawk County, IA",420698265,19013
+0.00,0,19,0,0,19,0,0,19,MercyOne Siouxland Medical Center,"Woodbury County, IA",311407377,19193
+0.00,0,19,0,0,19,0,0,19,Baptist Health Madisonville,"Hopkins County, KY",610654587,21107
+0.00,0,19,0,0,19,0,0,19,Lawrence General Hospital,"Essex County, MA",42103586,25009
+0.00,0,19,0,0,19,0,0,19,Mercy Hospital - Unity Campus,"Anoka County, MN",363261413,27003
+0.00,0,19,0,0,19,0,0,19,Jamaica Hospital Medical Center,"Queens County, NY",111631788,36081
+0.00,0,19,0,0,19,0,0,19,Trinity Hospital,"Ward County, ND",412002771,38101
+0.00,0,18,0,0,18,0,0,18,Saint Mary's Medical Center - SCL Health,"Mesa County, CO",840425720,8077
+0.00,0,18,0,0,18,0,0,18,Saint Lucie Medical Center,"St. Lucie County, FL",621113740,12111
+0.00,0,18,0,0,18,0,0,18,Riverside Medical Center,"Kankakee County, IL",362414944,17091
+0.00,0,18,0,0,18,0,0,18,MercyOne North Iowa,"Cerro Gordo County, IA",311373080,19033
+0.00,0,18,0,0,18,0,0,18,Good Samaritan Medical Center,"Plymouth County, MA",272473728,25023
+0.00,0,18,0,0,18,0,0,18,McLaren Flint,"Genesee County, MI",382383119,26049
+0.00,0,18,0,0,18,0,0,18,Woodwinds Health Campus,"Washington County, MN",411592761,27163
+0.00,0,18,0,0,18,0,0,18,Baptist Memorial Hospital - Golden Triangle,"Lowndes County, MS",621519754,28087
+0.00,0,18,0,0,18,0,0,18,Concord Hospital,"Merrimack County, NH",222594672,33013
+0.00,0,18,0,0,18,0,0,18,CHRISTUS Saint Vincent Regional Medical Center,"Santa Fe County, NM",850106941,35049
+0.00,0,18,0,0,18,0,0,18,Richmond University Medical Center,"Richmond County, NY",743177454,36085
+0.00,0,18,0,0,18,0,0,18,Maimonides Medical Center,"Kings County, NY",111635081,36047
+0.00,0,18,0,0,18,0,0,18,Long Island Jewish Forest Hills Hospital,"Queens County, NY",112163522,36081
+0.00,0,18,0,0,18,0,0,18,Mercy Health - Saint Rita's Medical Center,"Allen County, OH",341105619,39003
+0.00,0,18,0,0,18,0,0,18,Mercy Health - West Hospital,"Hamilton County, OH",311091597,39061
+0.00,0,18,0,0,18,0,0,18,Mercy Health-Saint Elizabeth Boardman Hospital,"Mahoning County, OH",340505560,39099
+0.00,0,18,0,0,18,0,0,18,WellSpan Good Samaritan Hospital,"Lebanon County, PA",230794160,42075
+0.00,0,18,0,0,18,0,0,18,Prisma Health Baptist Hospital,"Richland County, SC",582296052,45079
+0.00,0,18,0,0,18,0,0,18,Saint Mark's Hospital,"Salt Lake County, UT",621650573,49035
+0.00,0,18,0,0,18,0,0,18,Camden Clark Medical Center,"Wood County, WV",311524546,54107
+0.00,0,17,0,0,17,0,0,17,Community Hospital Anderson,"Madison County, IN",351069822,18095
+0.00,0,17,0,0,17,0,0,17,Merit Health Wesley,"Lamar County, MS",522050792,28073
+0.00,0,17,0,0,17,0,0,17,Anderson Regional Medical Center North,"Lauderdale County, MS",640362400,28075
+0.00,0,17,0,0,17,0,0,17,Bluefield Regional Medical Center,"Mercer County, WV",272372291,54055
+0.00,0,16,0,0,16,0,0,16,Vacaville Medical Center,"Solano County, CA",941105628,6095
+0.00,0,16,0,0,16,0,0,16,North Suburban Medical Center,"Adams County, CO",841321373,8001
+0.00,0,16,0,0,16,0,0,16,Straub Medical Center,"Honolulu County, HI",912151670,15003
+0.00,0,16,0,0,16,0,0,16,HSHS Saint Elizabeth's Hospital,"St. Clair County, IL",370663567,17163
+0.00,0,16,0,0,16,0,0,16,Saint Luke's Hospital,"Linn County, IA",420504780,19113
+0.00,0,16,0,0,16,0,0,16,The Medical Center at Bowling Green,"Warren County, KY",610920842,21227
+0.00,0,16,0,0,16,0,0,16,MaineGeneral Health,"Kennebec County, ME",43369653,23011
+0.00,0,16,0,0,16,0,0,16, Brockton Hospital,"Plymouth County, MA",222472997,25023
+0.00,0,16,0,0,16,0,0,16,McLaren Greater Lansing,"Ingham County, MI",381434090,26065
+0.00,0,16,0,0,16,0,0,16,CHI Health Good Samaritan,"Buffalo County, NE",470379755,31019
+0.00,0,16,0,0,16,0,0,16,CHI Health Saint Elizabeth,"Lancaster County, NE",470379836,31109
+0.00,0,16,0,0,16,0,0,16,CHI Health Saint Francis,"Hall County, NE",470376601,31079
+0.00,0,16,0,0,16,0,0,16,Capital Health Medical Center - Hopewell,"Mercer County, NJ",223548695,34021
+0.00,0,16,0,0,16,0,0,16,Wyckoff Heights Medical Center,"Kings County, NY",111631837,36047
+0.00,0,16,0,0,16,0,0,16,NYC Health + Hospitals Queens,"Queens County, NY",132655001,36081
+0.00,0,16,0,0,16,0,0,16,Carolinas HealthCare System - Blue Ridge,"Burke County, NC",560529976,37023
+0.00,0,16,0,0,16,0,0,16,Altru Hospital,"Grand Forks County, ND",450310462,38035
+0.00,0,16,0,0,16,0,0,16,Southern Ohio Medical Center,"Scioto County, OH",310678022,39145
+0.00,0,16,0,0,16,0,0,16,UH Portage Medical Center,"Portage County, OH",461382538,39133
+0.00,0,16,0,0,16,0,0,16,Mercy Health-Lorain Hospital,"Lorain County, OH",340714704,39093
+0.00,0,16,0,0,16,0,0,16,Milton S. Hershey Medical Center,"Dauphin County, PA",251854772,42043
+0.00,0,16,0,0,16,0,0,16,The University of Texas Medical Branch Galveston Campus,"Galveston County, TX",746000949,48167
+0.00,0,16,0,0,16,0,0,16,Knapp Medical Center,"Hidalgo County, TX",741393060,48215
+0.00,0,16,0,0,16,0,0,16,Hunt Regional Medical Center at Greenville,"Hunt County, TX",751277293,48231
+0.00,0,16,0,0,16,0,0,16,Saint Francis Medical Center,"Chesterfield County, VA",311716973,51041
+0.00,0,15,0,0,15,0,0,15,Ascension Borgess Hospital,"Kalamazoo County, MI",381360526,26077
+0.00,0,15,0,0,15,0,0,15,McAlester Regional Health Center,"Pittsburg County, OK",730992978,40121
+0.00,0,15,0,0,15,0,0,15,Penn Highlands DuBois,"Clearfield County, PA",251490707,42033
+0.00,0,15,0,0,15,0,0,15,Kent Hospital,"Kent County, RI",50258896,44003
+0.00,0,15,0,0,15,0,0,15,Mercyhealth Hospital and Trauma Center-Janesville,"Rock County, WI",390816848,55105
+0.00,0,15,0,0,15,0,0,15,Froedtert Menomonee Falls Hospital,"Waukesha County, WI",390987025,55133
+0.00,0,15,0,0,15,0,0,15,Cheyenne Regional Medical Center,"Laramie County, WY",836000194,56021
+0.00,0,14,0,0,14,0,0,14,Alfred I. duPont Hospital for Children & Nemours Children's Clinic,"New Castle County, DE",590634433,10003
+0.00,0,14,0,0,14,0,0,14,Franciscan Health Dyer Campus,"Lake County, IN",351835133,18089
+0.00,0,14,0,0,14,0,0,14,IU Health Arnett Hospital,"Tippecanoe County, IN",263162145,18157
+0.00,0,14,0,0,14,0,0,14,Saint Claire Regional Medical Center,"Rowan County, KY",610605336,21205
+0.00,0,14,0,0,14,0,0,14,ProMedica Monroe Regional Hospital,"Monroe County, MI",381984289,26115
+0.00,0,14,0,0,14,0,0,14,Inspira Medical Center Woodbury,"Gloucester County, NJ",221820210,34015
+0.00,0,14,0,0,14,0,0,14,Betsy Johnson Regional Hospital,"Harnett County, NC",560603898,37085
+0.00,0,14,0,0,14,0,0,14,Atrium Health Union,"Union County, NC",560529945,37179
+0.00,0,14,0,0,14,0,0,14,Northeastern Health System,"Cherokee County, OK",736045246,40021
+0.00,0,14,0,0,14,0,0,14,Delaware County Memorial Hospital,"Delaware County, PA",811520273,42045
+0.00,0,14,0,0,14,0,0,14,Conemaugh Memorial Medical Center - Main Campus,"Cambria County, PA",611739000,42021
+0.00,0,14,0,0,14,0,0,14,Indian Path Community Hospital,"Sullivan County, TN",620476282,47163
+0.00,0,14,0,0,14,0,0,14,Johnston Memorial Hospital,"Washington County, VA",540544705,51191
+0.00,0,14,0,0,14,0,0,14,HSHS Sacred Heart Hospital,"Eau Claire County, WI",390807060,55035
+0.00,0,14,0,0,14,0,0,14,Wyoming Medical Center,"Natrona County, WY",830279242,56025
+0.00,0,13,0,0,13,0,0,13,Verde Valley Medical Center,"Yavapai County, AZ",860100882,4025
+0.00,0,13,0,0,13,0,0,13,Unity Health White County Medical Center,"White County, AR",710772737,5145
+0.00,0,13,0,0,13,0,0,13,West Valley Medical Center,"Canyon County, ID",363525049,16027
+0.00,0,13,0,0,13,0,0,13,OSF Heart of Mary Medical Center,"Champaign County, IL",370813229,17019
+0.00,0,13,0,0,13,0,0,13,HSHS Saint Mary's Hospital,"Macon County, IL",370661244,17115
+0.00,0,13,0,0,13,0,0,13,Methodist Jennie Edmundson Hospital,"Pottawattamie County, IA",420680355,19155
+0.00,0,13,0,0,13,0,0,13,Interfaith Medical Center,"Kings County, NY",112626155,36047
+0.00,0,13,0,0,13,0,0,13,Pardee Hospital,"Henderson County, NC",562084959,37089
+0.00,0,13,0,0,13,0,0,13,Sanford Bismarck Medical Center,"Burleigh County, ND",450226700,38015
+0.00,0,12,0,0,12,0,0,12,Baptist Medical Center South,"Montgomery County, AL",203204949,1101
+0.00,0,12,0,0,12,0,0,12,Princeton Baptist Medical Center,"Jefferson County, AL",474775351,1073
+0.00,0,12,0,0,12,0,0,12,Canyon Vista Medical Center,"Cochise County, AZ",900942222,4003
+0.00,0,12,0,0,12,0,0,12,White River Medical Center,"Independence County, AR",710411459,5063
+0.00,0,12,0,0,12,0,0,12,Kern Medical Center,"Kern County, CA",475618278,6029
+0.00,0,12,0,0,12,0,0,12,San Rafael Medical Center,"Marin County, CA",941105628,6041
+0.00,0,12,0,0,12,0,0,12,Fresno Medical Center,"Fresno County, CA",941105628,6019
+0.00,0,12,0,0,12,0,0,12,Kuakini Medical Center,"Honolulu County, HI",990074139,15003
+0.00,0,12,0,0,12,0,0,12,Northwestern Medicine Lake Forest Hospital,"Lake County, IL",362179779,17097
+0.00,0,12,0,0,12,0,0,12,UnityPoint Health - Methodist,"Peoria County, IL",370661223,17143
+0.00,0,12,0,0,12,0,0,12,Waterloo Medical Center,"Black Hawk County, IA",421264647,19013
+0.00,0,12,0,0,12,0,0,12,Our Lady of Bellefonte Hospital,"Greenup County, KY",611356023,21089
+0.00,0,12,0,0,12,0,0,12,Saint Anne's Hospital,"Bristol County, MA",272473637,25005
+0.00,0,12,0,0,12,0,0,12,Capital Region Medical Center,"Cole County, MO",440546366,29051
+0.00,0,12,0,0,12,0,0,12,Hunterdon Medical Center,"Hunterdon County, NJ",221537688,34019
+0.00,0,12,0,0,12,0,0,12,Saint Francis Medical Center,"Mercer County, NJ",223431049,34021
+0.00,0,12,0,0,12,0,0,12,Inspira Medical Center Vineland,"Cumberland County, NJ",210634484,34011
+0.00,0,12,0,0,12,0,0,12,The Brooklyn Hospital Center,"Kings County, NY",111630755,36047
+0.00,0,12,0,0,12,0,0,12,Niagara Falls Memorial Medical Center,"Niagara County, NY",160743094,36063
+0.00,0,12,0,0,12,0,0,12,WakeMed Raleigh Campus,"Wake County, NC",566017737,37183
+0.00,0,12,0,0,12,0,0,12,Summa Health System-Barberton Campus,"Summit County, OH",341840858,39153
+0.00,0,12,0,0,12,0,0,12,Western Reserve Hospital,"Summit County, OH",263536780,39153
+0.00,0,12,0,0,12,0,0,12,Adena Regional Medical Center,"Ross County, OH",314379443,39141
+0.00,0,12,0,0,12,0,0,12,Mercy Health - Saint Joseph Warren Hospital,"Trumbull County, OH",340505560,39155
+0.00,0,12,0,0,12,0,0,12,UH Geauga Medical Center,"Geauga County, OH",340816492,39055
+0.00,0,12,0,0,12,0,0,12,Sycamore Medical Center,"Montgomery County, OH",310621866,39113
+0.00,0,12,0,0,12,0,0,12,Soin Medical Center,"Greene County, OH",270712680,39057
+0.00,0,12,0,0,12,0,0,12,Good Samaritan Regional Medical Center,"Benton County, OR",930391573,41003
+0.00,0,12,0,0,12,0,0,12,Bay Area Hospital,"Coos County, OR",930593249,41011
+0.00,0,12,0,0,12,0,0,12,Geisinger Bloomsburg Hospital,"Columbia County, PA",232193572,42037
+0.00,0,12,0,0,12,0,0,12,Meadville Medical Center,"Crawford County, PA",251512436,42039
+0.00,0,12,0,0,12,0,0,12,Saint Luke's Sacred Heart Campus,"Lehigh County, PA",231352208,42077
+0.00,0,12,0,0,12,0,0,12,United Regional Eleventh Street Campus,"Wichita County, TX",751912147,48485
+0.00,0,12,0,0,12,0,0,12,Baylor Scott & White Medical Center Hillcrest,"McLennan County, TX",741161944,48309
+0.00,0,12,0,0,12,0,0,12,CHI St. Joseph Health College Station Hospital,"Brazos County, TX",621762360,48041
+0.00,0,12,0,0,12,0,0,12,Greenbrier Valley Medical Center,"Greenbrier County, WV",752887493,54025
+0.00,0,12,0,0,12,0,0,12,Saint Mary's Medical Center,"Cabell County, WV",550357050,54011
+0.00,0,11,0,0,11,0,0,11,Hilo Medical Center,"Hawaii County, HI",943282424,15001
+0.00,0,11,0,0,11,0,0,11,Marietta Memorial Hospital,"Washington County, OH",314379509,39167
+0.00,0,11,0,0,11,0,0,11,Excela Latrobe Hospital,"Westmoreland County, PA",250965414,42129
+0.00,0,10,0,0,10,0,0,10,Memorial Satilla Health,"Ware County, GA",814223395,13299
+0.00,0,10,0,0,10,0,0,10,Colquitt Regional Medical Center,"Colquitt County, GA",580607088,13071
+0.00,0,10,0,0,10,0,0,10,Iowa Lutheran Hospital,"Polk County, IA",420680452,19153
+0.00,0,10,0,0,10,0,0,10,UnityPoint Health Trinity - Bettendorf,"Scott County, IA",362739299,19163
+0.00,0,10,0,0,10,0,0,10,T. J. Samson Community Hospital,"Barren County, KY",610461767,21009
+0.00,0,10,0,0,10,0,0,10,ProMedica Coldwater Regional Hospital,"Branch County, MI",386108110,26023
+0.00,0,10,0,0,10,0,0,10,Ascension St. Mary's Hospital,"Saginaw County, MI",380997730,26145
+0.00,0,10,0,0,10,0,0,10,Northeast Regional Medical Center,"Adair County, MO",364395800,29001
+0.00,0,10,0,0,10,0,0,10,Our Lady of Lourdes Memorial Hospital,"Broome County, NY",150532221,36007
+0.00,0,10,0,0,10,0,0,10,United Memorial Medical Center,"Genesee County, NY",160743029,36037
+0.00,0,10,0,0,10,0,0,10,Samaritan Medical Center,"Jefferson County, NY",150533577,36045
+0.00,0,10,0,0,10,0,0,10,Kingsbrook Jewish Medical Center,"Kings County, NY",111631759,36047
+0.00,0,10,0,0,10,0,0,10,East Liverpool City Hospital,"Columbiana County, OH",340714583,39029
+0.00,0,10,0,0,10,0,0,10,Geisinger Lewistown Hospital,"Mifflin County, PA",231352187,42087
+0.00,0,10,0,0,10,0,0,10,UPMC Memorial,"York County, PA",820912090,42133
+0.00,0,10,0,0,10,0,0,10,Southwestern Vermont Medical Center,"Bennington County, VT",222563241,50003
+0.00,0,10,0,0,10,0,0,10,LewisGale Hospital - Montgomery,"Montgomery County, VA",540889154,51121
+0.00,0,10,0,0,10,0,0,10,MultiCare Valley Hospital,"Spokane County, WA",911352172,53063
+0.00,0,9,0,0,9,0,0,9,USA Health University Hospital,"Mobile County, AL",630477348,1097
+0.00,0,9,0,0,9,0,0,9,SMHC Medical Center - Biddeford,"York County, ME",10238552,23031
+0.00,0,8,0,0,8,0,0,8,Jack Hughston Memorial Hospital,"Russell County, AL",331058243,1113
+0.00,0,8,0,0,8,0,0,8,AdventHealth Carrollwood,"Hillsborough County, FL",591113901,12057
+0.00,0,8,0,0,8,0,0,8,Pali Momi Medical Center,"Honolulu County, HI",990274038,15003
+0.00,0,8,0,0,8,0,0,8,Trinity Regional Medical Center,"Webster County, IA",421009175,19187
+0.00,0,8,0,0,8,0,0,8,Essentia Health Duluth,"St. Louis County, MN",411878730,27137
+0.00,0,8,0,0,8,0,0,8,Community Medical Center,"Missoula County, MT",611744940,30063
+0.00,0,8,0,0,8,0,0,8,Lovelace Women's Hospital,"Bernalillo County, NM",850327237,35001
+0.00,0,8,0,0,8,0,0,8,Eastern Niagara Hospital-Lockport,"Niagara County, NY",161137084,36063
+0.00,0,8,0,0,8,0,0,8,NYU Langone Hospital - Brooklyn,"Kings County, NY",111839567,36047
+0.00,0,8,0,0,8,0,0,8,Saint John's Episcopal Hospital,"Queens County, NY",111665825,36081
+0.00,0,8,0,0,8,0,0,8,Sampson Regional Medical Center,"Sampson County, NC",560562304,37163
+0.00,0,8,0,0,8,0,0,8,AllianceHealth Durant,"Bryan County, OK",581725656,40013
+0.00,0,8,0,0,8,0,0,8,UPMC Northwest,"Venango County, PA",250489010,42121
+0.00,0,8,0,0,8,0,0,8,Colleton Medical Center,"Colleton County, SC",570712623,45029
+0.00,0,8,0,0,8,0,0,8,Greer Memorial Hospital,"Greenville County, SC",811723202,45045
+0.00,0,8,0,0,8,0,0,8,Tidelands Waccamaw Community Hospital,"Georgetown County, SC",43633263,45043
+0.00,0,8,0,0,8,0,0,8,Warren Memorial Hospital,"Warren County, VA",540488103,51187
+0.00,0,8,0,0,8,0,0,8,Lonesome Pine Hospital,"Wise County, VA",621636465,51195
+0.00,0,7,0,0,7,0,0,7,New York Community Hospital,"Kings County, NY",111986351,36047
+0.00,0,7,0,0,7,0,0,7,Clarion Hospital,"Clarion County, PA",251010039,42031
+0.00,0,6,0,0,6,0,0,6,Magnolia Regional Medical Center,"Columbia County, AR",716014562,5027
+0.00,0,6,0,0,6,0,0,6,Saint Mary-Corwin Medical Center,"Pueblo County, CO",840405257,8101
+0.00,0,6,0,0,6,0,0,6,Wahiawa General Hospital,"Honolulu County, HI",990269825,15003
+0.00,0,6,0,0,6,0,0,6,Katherine Shaw Bethea Hospital,"Lee County, IL",361000540,17103
+0.00,0,6,0,0,6,0,0,6,Broadlawns Medical Center,"Polk County, IA",426005830,19153
+0.00,0,6,0,0,6,0,0,6,Wayne General Hospital,"Wayne County, MS",646001528,28153
+0.00,0,6,0,0,6,0,0,6,Novant Health Huntersville Medical Center,"Mecklenburg County, NC",560554230,37119
+0.00,0,6,0,0,6,0,0,6, UPMC Lititz,"Lancaster County, PA",820844453,42071
+0.00,0,6,0,0,6,0,0,6,UPMC Horizon - Greenville,"Mercer County, PA",250523970,42085
+0.00,0,6,0,0,6,0,0,6,Millcreek Community Hospital,"Erie County, PA",251002937,42049
+0.00,0,6,0,0,6,0,0,6,Hillcrest Memorial Hospital,"Greenville County, SC",811723202,45045
+0.00,0,6,0,0,6,0,0,6,Providence Centralia Hospital,"Lewis County, WA",910573108,53041
+0.00,0,6,0,0,6,0,0,6,The Monroe Clinic Hospital,"Green County, WI",390808509,55045
+0.00,0,6,0,0,6,0,0,6,SSM Health Saint Clare Hospital -Baraboo,"Sauk County, WI",430688874,55111
+0.00,0,5,0,0,5,0,0,5,HealthAlliance Hospital Mary's Avenue Campus,"Ulster County, NY",141338470,36111
+0.00,0,4,0,0,4,0,0,4,Hillsdale Hospital,"Hillsdale County, MI",386005550,26059
+0.00,0,4,0,0,4,0,0,4,Sparrow Carson Hospital,"Montcalm County, MI",381490180,26117
+0.00,0,4,0,0,4,0,0,4,Lone Peak Hospital,"Salt Lake County, UT",251925376,49035
+0,0,3,0,0,3,0,0,3,Kapi'olani Medical Center for Women & Children,"Honolulu County, HI",990177350,15003
+0,0,3,0,0,3,0,0,3,Ascension River District Hospital,"St. Clair County, MI",383160564,26147
