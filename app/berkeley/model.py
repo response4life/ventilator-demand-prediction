@@ -1,12 +1,12 @@
 import csv, json
 import pdb
 import os
+import datetime
 
 directory_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ventilator_demand_prediction_csv_path = os.path.join(directory_path, 'berkeley/ventilator_demand_prediction.csv')
-ventilator_demand_prediction_json_path = './ventilator_demand_prediction.json'
+ventilator_demand_prediction_json_path = os.path.join(directory_path, 'berkeley/ventilator_demand_prediction.json')
 
-data = []
 
 
 def day_data_object():
@@ -28,6 +28,10 @@ def facility_dict():
 
 
 def read_csv():
+  data = {
+    'created_at': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M:%SZ'),
+    'facilities': []
+  }
   with open(ventilator_demand_prediction_csv_path) as csv_file:
     csv_reader = csv.DictReader(csv_file)
     for row in csv_reader:
@@ -52,5 +56,17 @@ def read_csv():
         'vent_supply': row['Vent Supply 5-day']
       }
       
-      data.append(facility)
-    pdb.set_trace()
+      data['facilities'].append(facility)
+      
+    return data
+
+def write_data(data):
+  with open(ventilator_demand_prediction_json_path, 'w') as json_file:
+    json_file.write(json.dumps(data, indent=4))    
+    
+
+def get_json_file():
+  with open(ventilator_demand_prediction_json_path) as file:
+    data = json.load(file)
+ 
+  return data
