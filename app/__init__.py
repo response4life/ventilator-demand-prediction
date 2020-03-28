@@ -5,6 +5,7 @@ from .berkeley import model as berkeley_model
 import json
 from werkzeug.utils import secure_filename
 import os
+import pdb
 
 app = Flask(__name__)
 CORS(app)
@@ -69,7 +70,7 @@ def upload_file():
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
             data = berkeley_model.read_csv()
             berkeley_model.write_data(data)
-            return redirect(url_for('uploaded_file'))
+            
     return '''
     <!doctype html>
     <title>Upload new File</title>
@@ -79,7 +80,34 @@ def upload_file():
       <input type=submit value=Upload>
     </form>
     '''
-    
+
+@app.route('/berkeley/auto-upload', methods=['POST'])
+def auto_upload_file():
+    if request.method == 'POST':
+        # check if the post request has the file part
+        if 'file' not in request.files:
+          return json.dumps({
+            'status': 400,
+            'error': 'did not recognize file, you can only upload csv files'
+          })
+        file = request.files['file']
+        # if user does not select file, browser also
+        # submit an empty part without filename
+        if file and allowed_file(file.filename):
+            filename = 'ventilator_demand_prediction.csv'
+            file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+            data = berkeley_model.read_csv()
+            berkeley_model.write_data(data)
+            return json.dumps({
+              'status': 200,
+              'message': 'upload successful!'
+            })
+        else:
+          return json.dumps({
+            'status': '400',
+            'error': 'did not recognize file, you can only upload csv files'
+          })
+
 @app.route('/uploads/success')
 def uploaded_file():
     return '''
