@@ -1,5 +1,4 @@
-import model
+from . import ventilators as model
 if __name__ == "__main__":
-  data = model.read_csv()
-  model.write_data(data)
-  
+    data = model.read_csv()
+    model.write_data(data)
