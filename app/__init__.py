@@ -1,6 +1,7 @@
 from flask import Flask, flash, request, redirect, url_for, send_from_directory
 from flask_cors import CORS
 from .sir import model as sir_model
+from .utils import pagination
 from . import berkeley
 import json
 from werkzeug.utils import secure_filename
@@ -83,12 +84,6 @@ def calculate_sir():
     return json.dumps(response)
 
 
-@app.route('/berkeley/ventilators')
-def get_berkeley_data():
-    data = berkeley.ventilators.get_json_file()
-    return json_response(data)
-
-
 @app.route('/berkeley/ventilators/upload', methods=['GET', 'POST'])
 def upload_ventilator_file():
     if request.method == 'POST':
@@ -136,8 +131,11 @@ def auto_upload_ventilator_file():
 
 @app.route('/berkeley/ventilators')
 def get_berkeley_ventilator_data():
+    page = request.args.get('page')
+    count = request.args.get('count')
     data = berkeley.ventilators.get_json_file()
-    return json_response(data)
+    response = pagination.paginate(page, count, data, 'facilities')
+    return json_response(response)
 
 
 @app.route('/berkeley/severity/upload', methods=['GET', 'POST'])
@@ -187,8 +185,11 @@ def auto_upload_severity_file():
 
 @app.route('/berkeley/severity')
 def get_berkeley_severity_data():
+    page = request.args.get('page')
+    count = request.args.get('count')
     data = berkeley.severity.get_json_file()
-    return json_response(data)
+    response = pagination.paginate(page, count, data, 'facilities')
+    return json_response(response)
 
 
 @app.route('/uploads/success')
