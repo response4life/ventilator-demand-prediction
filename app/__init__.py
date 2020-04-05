@@ -1,4 +1,4 @@
-from flask import Flask, flash, request, redirect, url_for, send_from_directory
+from flask import Flask, flash, request, redirect, url_for, send_from_directory, Response
 from flask_cors import CORS
 from .sir import model as sir_model
 from .utils import pagination
@@ -25,15 +25,7 @@ def allowed_file(filename):
 
 
 def json_response(body, headers=None, status=200):
-    if headers is None:
-        headers = {}
-
-    headers.setdefault('Content-Type', 'application/json')
-    return json.dumps({
-        'statusCode': status,
-        'headers': headers,
-        'body': body,
-    })
+    return Response(status=200, response=json.dumps(body), content_type='application/json')
 
 
 def upload_file(file, file_name, directory, response_type='json', http_template=None):
