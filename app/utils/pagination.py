@@ -19,6 +19,7 @@ def paginate(page, count, data, list_key):
         page = pages
 
     page_range = [page * count - count, page * count]
-    page_data = data[list_key][page_range[0]:page_range[1]]
+    data[list_key] = data[list_key][page_range[0]:page_range[1]]
+    data.update({'paging': {'total': total, 'page': page, 'pages': pages}})
 
-    return {list_key: page_data, 'paging': {'total': total, 'page': page, 'pages': pages}}
+    return data
