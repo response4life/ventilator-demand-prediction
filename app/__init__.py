@@ -1,7 +1,7 @@
 from flask import Flask, flash, request, redirect, url_for, send_from_directory, Response
 from flask_cors import CORS
 from .sir import model as sir_model
-from .utils import pagination
+from .utils import pagination, security
 from . import berkeley
 import json
 from werkzeug.utils import secure_filename
@@ -52,7 +52,8 @@ def upload_file(file, file_name, directory, response_type='json', http_template=
         return False
 
 
-@app.route('/sir')
+@app.route('/sir', methods=['GET'])
+@security.token_required
 def calculate_sir():
     population = request.args.get('population')
     initial_infected = request.args.get('initial_infected')
@@ -77,6 +78,7 @@ def calculate_sir():
 
 
 @app.route('/berkeley/ventilators/upload', methods=['GET', 'POST'])
+@security.token_required
 def upload_ventilator_file():
     if request.method == 'POST':
         # check if the post request has the file part
@@ -107,6 +109,7 @@ def upload_ventilator_file():
 
 
 @app.route('/berkeley/ventilators/auto-upload', methods=['POST'])
+@security.token_required
 def auto_upload_ventilator_file():
     if request.method == 'POST':
         # check if the post request has the file part
@@ -122,6 +125,7 @@ def auto_upload_ventilator_file():
 
 
 @app.route('/berkeley/ventilators')
+@security.token_required
 def get_berkeley_ventilator_data():
     page = request.args.get('page')
     count = request.args.get('count')
@@ -130,37 +134,8 @@ def get_berkeley_ventilator_data():
     return json_response(response)
 
 
-@app.route('/berkeley/severity/upload', methods=['GET', 'POST'])
-def upload_severity_file():
-    if request.method == 'POST':
-        # check if the post request has the file part
-        if 'file' not in request.files:
-            return redirect(request.url)
-        file = request.files['file']
-        # if user does not select file, browser also
-        # submit an empty part without filename
-        if file.filename == '':
-            flash('No selected file')
-            return redirect(request.url)
-
-        if upload_file(file, 'severity_index.csv', 'severity', 'http'):
-            return redirect(url_for('uploaded_file'))
-        else:
-            flash('Not a csv file')
-            return redirect(request.url)
-
-    return '''
-    <!doctype html>
-    <title>Upload new File</title>
-    <h1>Upload new File</h1>
-    <form method=post enctype=multipart/form-data>
-      <input type=file name=file>
-      <input type=submit value=Upload>
-    </form>
-    '''
-
-
 @app.route('/berkeley/severity/auto-upload', methods=['POST'])
+@security.token_required
 def auto_upload_severity_file():
     if request.method == 'POST':
         # check if the post request has the file part
@@ -176,21 +151,10 @@ def auto_upload_severity_file():
 
 
 @app.route('/berkeley/severity')
+@security.token_required
 def get_berkeley_severity_data():
     page = request.args.get('page')
     count = request.args.get('count')
     data = berkeley.severity.get_json_file()
     response = pagination.paginate(page, count, data, 'facilities')
     return json_response(response)
-
-
-@app.route('/uploads/success')
-def uploaded_file():
-    return '''
-    <!doctype html>
-    <title>Upload new File</title>
-    <h1>Upload Successful!</h1>
-    <div>
-      <a href="/berkeley/upload">upload another</a>
-    </div>
-    '''
