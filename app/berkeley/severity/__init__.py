@@ -24,7 +24,10 @@ def read_csv():
                     'day1': row['Severity 1-day'],
                     'day2': row['Severity 2-day'],
                     'day3': row['Severity 3-day'],
-
+                    'day4': row['Severity 4-day'],
+                    'day5': row['Severity 5-day'],
+                    'day6': row['Severity 6-day'],
+                    'day7': row['Severity 7-day'],
                 },
                 'county_name': row['CountyName'],
                 'cms_certification_number': row['CMS Certification Number'],
