@@ -32,7 +32,9 @@ def read_csv():
                 'county_name': row['CountyName'],
                 'cms_certification_number': row['CMS Certification Number'],
                 'county_fips': row['countyFIPS'],
-                'state_name': row['StateName']
+                'state_name': row['StateName'],
+                'system_affiliation': row['System Affiliation'],
+                'total_deaths_hospital': row['Total Deaths Hospital']
             }
 
             data['facilities'].append(facility)
