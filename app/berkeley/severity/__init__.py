@@ -34,7 +34,9 @@ def read_csv():
                 'county_fips': row['countyFIPS'],
                 'state_name': row['StateName'],
                 'system_affiliation': row['System Affiliation'],
-                'total_deaths_hospital': row['Total Deaths Hospital']
+                'total_deaths_hospital': row['Total Deaths Hospital'],
+                'latitude': row['Latitude'],
+                'longitude': row['Longitude']
             }
 
             data['facilities'].append(facility)
