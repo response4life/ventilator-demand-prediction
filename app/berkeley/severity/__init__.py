@@ -36,7 +36,13 @@ def read_csv():
                 'system_affiliation': row['System Affiliation'],
                 'total_deaths_hospital': row['Total Deaths Hospital'],
                 'latitude': row['Latitude'],
-                'longitude': row['Longitude']
+                'longitude': row['Longitude'],
+                'surge_3_day': row['Surge 3-day'],
+                'predicted_new_deaths_hospital_3_day': row['Predicted New Deaths Hospital 3-day'],
+                'total_deaths_county': row['Total Deaths County'],
+                'predicted_new_deaths_county_3_day': row['Predicted New Deaths County 3-day'],
+                'icu_beds': row['ICU Beds'],
+                'hospital_employees': row['Hospital Employees']
             }
 
             data['facilities'].append(facility)
