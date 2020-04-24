@@ -43,6 +43,7 @@ def read_csv():
                 'predicted_new_deaths_county_3_day': row['Predicted New Deaths County 3-day'],
                 'icu_beds': row['ICU Beds'],
                 'hospital_employees': row['Hospital Employees']
+                'rural_severity_3_day': row['Rural Severity 3-day']
             }
 
             data['facilities'].append(facility)
