@@ -1,6 +1,6 @@
 # Prediction for Ventilator Demand Based on SIR model
 
-A _REALLY_ simple flask application for returning json with prediction data based on a vew variables
+A _REALLY_ simple flask application for returning json with prediction data based on a few variables
 
 ## Getting Started
 
